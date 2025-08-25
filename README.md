@@ -58,4 +58,59 @@
 
 ---
 
-✅ With these phases, **Vedika** becomes a **context-aware satellite data assistant** — seamlessly bridging ISRO’s archives with live updates to serve researchers, students, and the wider space-tech community.
+## ⚡ Capabilities of Vedika
+Vedika is designed to be a **knowledge-driven, context-aware assistant** for ISRO satellite data. Its core capabilities include:
+
+### 1. Satellite Knowledge & Metadata Access  
+- Provides detailed information on **44+ ISRO satellites** (past and present).  
+- Retrieves **launch dates, payload details, resolutions, coverage areas, and applications**.  
+- Supports **comparisons** (e.g., *INSAT-3D vs. INSAT-3DS improvements*).  
+
+### 2. Geospatial & Product Information  
+- Answers queries about **geospatial extents**, coverage regions, and data availability.  
+- Guides users to relevant **satellite products** (e.g., rainfall, SST, vegetation indices).  
+- Converts technical metadata into **easy-to-understand summaries**.  
+
+### 3. Historical & Real-Time Data Support  
+- Accesses **archived data (since 1986)** through Bhoonidhi and other repositories.  
+- Integrates with **real-time feeds** (e.g., MOSDAC Live meteorological products).  
+- Maintains data freshness via **automated update pipelines**.  
+
+### 4. Natural Language Query Understanding  
+- Handles free-form questions like:  
+  - *“Which satellites provide land use/land cover data?”*  
+  - *“What’s the resolution of Cartosat-2 imagery?”*  
+- Detects **entities (satellite names, sensors, instruments)** and **intent** (compare, lookup, download).  
+- Maintains **contextual conversation memory** for follow-ups.  
+
+### 5. Knowledge Retrieval & AI-Powered Responses  
+- Uses a **RAG pipeline** to fetch relevant info from structured KB + unstructured docs.  
+- Generates **factually aligned, ISRO-specific responses**.  
+- Explains technical terms (e.g., *“TIR band”*) in simple language when needed.  
+
+### 6. User-Friendly Interaction  
+- Chat interface with **search + Q&A flow** (web/app based).  
+- Optional **voice interaction mode** for accessibility.  
+- Potential for **visual outputs** (map previews, charts, product diagrams).  
+
+### 7. Scalability & Extensibility  
+- Can integrate new satellites, missions, and APIs without redesign.  
+- Future-ready for:  
+  - **Multi-language support** (Hindi & regional).  
+  - **API endpoints** for research labs & universities.  
+  - **Satellite image previews** within chat.  
+
+---
+
+## 🎯 End Goals for Vedika
+1. **Unified Satellite Knowledge Base** – combine historical archives and live data into one platform.  
+2. **Context-Aware Query Handling** – natural language Q&A with comparison and retrieval features.  
+3. **Real-Time Updates & Reliability** – automated pipelines with monitoring and alerts.  
+4. **Research & Education Tool** – simplify ISRO data access for researchers, students, and professionals.  
+5. **Scalable Chatbot Interface** – clean UI with scope for integration into apps and institutional platforms.  
+6. **ISRO-Aligned Knowledge Expansion** – continuously update with new satellites and missions.  
+7. **Foundation for Advanced Features** – support for visualization, APIs, and multilingual interaction.  
+
+---
+
+✅ With these phases, capabilities, and goals, **Vedika** becomes a **context-aware satellite data assistant** — seamlessly bridging ISRO’s archives with live updates to serve researchers, students, and the wider space-tech community.
