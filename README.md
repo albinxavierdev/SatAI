@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 **Current Status: PROJECT COMPLETED & RUNNING**
+## 🚀 **Current Status: Initial Chatbot**
 
 **Vedika is now a fully functional AI chat application!** The project has been successfully implemented with all planned features and is ready for use.
 
