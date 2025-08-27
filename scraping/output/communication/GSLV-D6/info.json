@@ -1,0 +1,18 @@
+{
+  "title": "GSLV-D6",
+  "url": "https://www.isro.gov.in/mission_GSLVD6.html",
+  "intro": "GSLV-D6 Home / Activities / Missions accomplished",
+  "features": {
+    "Perigee": "170 km",
+    "Apogee": "35975 km",
+    "Inclination": "19.95 deg",
+    "Back to ISRO Timeline More Details GSLV": "D6 GSAT-6 Gallery Brochure PDF - 1.19 MB GSLV-D6 is the ninth flight of India's Geosynchronous Satellite Launch Vehicle (GSLV). It is also the fifth developmental flight of GSLV and third time the indigenously developed Cryogenic Upper Stage (CUS) is being carried on-board during a GSLV flight. GSLV-D6 flight is significant since it intends to continue the testing of CUS. GSLV is designed to inject 2 ton class of communication satellites into Geosynchronous Transfer Orbit (GTO). GSLV-D6 was launched from the Second Launch Pad at Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota, placing GSAT-6 into a GTO (Geosynchronous Transfer Orbit) on August 27, 2015. GSAT-6, weighing 2117 kg is an advanced communication satellite, provides S-band communication services in the country. After reaching GTO, GSAT-6 used its own propulsion system to reach its final geostationary orbital home and was stationed at 83 deg East longitude. GSLV-D6 vehicle is configured with all its three stages including the CUS similar to the ones successfully flown during the previous GSLV-D5 mission in January 2014. The metallic payload fairing of GSLV-D6 has a diameter of 3.4 m. The overall length of GSLV-D6 is 49.1 m with a lift-off mass of 416 tonne. The Cryogenic Upper Stage (CUS) being flown in GSLV-D6 was designated as CUS-06. A Cryogenic rocket stage is more efficient and provides more thrust for every kilogram of propellant it burns compared to solid and earth-storable liquid propellant rocket stages. S-band telemetry and C-band transponders enable GSLV-D6 performance monitoring, tracking, range safety/flight safety and Preliminary Orbit Determination (POD). Targeted GTO (Geosynchronous Transfer Orbit) of GSLV-D6 Perigee 170 km Apogee 35975 km Inclination 19.95 deg"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/GSLV/GSLVD6/1gslvd6.jpg.webp"
+  ],
+  "local_images": [
+    "images\\GSLV-D6_1.webp"
+  ],
+  "name": "GSLV-D6"
+}

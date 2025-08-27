@@ -1,0 +1,15 @@
+{
+  "title": "EOS-04",
+  "url": "https://www.isro.gov.in/mission_PSLV_C52_EOS_04.html",
+  "intro": "EOS-04 Home / Activities / Missions accomplished",
+  "features": {
+    "EOS": "04 is a Radar Imaging Satellite designed to provide high quality images under all weather conditions for applications such as Agriculture, Forestry & Plantations, Soil Moisture & Hydrology and Flood mapping. प्रमोचक राकेट / Launch Vehicle: PSLV-C52/EOS-04 Mission उपग्रह का प्रकार / Type of Satellite: Earth Observation अनुप्रयोग / Application: Earth Observation More Details PSLV-C52/EOS-04 Mission EOS-04 INS-2TD INSPIREsat-1 Brochure PDF - 7.17 MB Gallery Launch of PSLV-C52/EOS-04 PSLV-C52 Liftoff and Onboard Camera View"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/resized/eos-04_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\EOS-04_1.webp"
+  ],
+  "name": "EOS-04"
+}

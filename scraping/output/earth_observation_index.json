@@ -1,0 +1,98 @@
+[
+  {
+    "name": "EOS–07 MISSION",
+    "folder": "earth_observation\\EOS_07_MISSION",
+    "url": "https://www.isro.gov.in/EOS_07.html",
+    "cover_image": "images\\EOS_07_MISSION_1.webp"
+  },
+  {
+    "name": "SSLV-D2/EOS-07 MISSION",
+    "folder": "earth_observation\\SSLV-D2_EOS-07_MISSION",
+    "url": "https://www.isro.gov.in/mission_SSLV_D2.html",
+    "cover_image": "images\\SSLV-D2_EOS-07_MISSION_1.webp"
+  },
+  {
+    "name": "EOS-06",
+    "folder": "earth_observation\\EOS-06",
+    "url": "https://www.isro.gov.in/EOS_06.html",
+    "cover_image": "images\\EOS-06_1.webp"
+  },
+  {
+    "name": "PSLV-C54/EOS-06 Mission",
+    "folder": "earth_observation\\PSLV-C54_EOS-06_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C54.html",
+    "cover_image": "images\\PSLV-C54_EOS-06_Mission_1.webp"
+  },
+  {
+    "name": "EOS-04",
+    "folder": "earth_observation\\EOS-04",
+    "url": "https://www.isro.gov.in/mission_PSLV_C52_EOS_04.html",
+    "cover_image": "images\\EOS-04_1.webp"
+  },
+  {
+    "name": "PSLV-C52/EOS-04 Mission",
+    "folder": "earth_observation\\PSLV-C52_EOS-04_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C52.html",
+    "cover_image": "images\\PSLV-C52_EOS-04_Mission_1.webp"
+  },
+  {
+    "name": "PSLV-C49/EOS-01",
+    "folder": "earth_observation\\PSLV-C49_EOS-01",
+    "url": "https://www.isro.gov.in/mission_PSLV_C49.html",
+    "cover_image": "images\\PSLV-C49_EOS-01_1.webp"
+  },
+  {
+    "name": "PSLV-C48/RISAT-2BR1",
+    "folder": "earth_observation\\PSLV-C48_RISAT-2BR1",
+    "url": "https://www.isro.gov.in/mission_PSLV_C48_RISAT_2BR1.html",
+    "cover_image": "images\\PSLV-C48_RISAT-2BR1_1.webp"
+  },
+  {
+    "name": "Cartosat-3",
+    "folder": "earth_observation\\Cartosat-3",
+    "url": "https://www.isro.gov.in/Cartosat_3.html",
+    "cover_image": "images\\Cartosat-3_1.webp"
+  },
+  {
+    "name": "PSLV-C47 / Cartosat-3 Mission",
+    "folder": "earth_observation\\PSLV-C47___Cartosat-3_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C47.html",
+    "cover_image": "images\\PSLV-C47___Cartosat-3_Mission_1.webp"
+  },
+  {
+    "name": "PSLV-C46 Mission",
+    "folder": "earth_observation\\PSLV-C46_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C46.html",
+    "cover_image": "images\\PSLV-C46_Mission_1.webp"
+  },
+  {
+    "name": "Indian Space Research Organisation",
+    "folder": "earth_observation\\Indian_Space_Research_Organisation",
+    "url": "https://www.isro.gov.in/mission_PSLV_C12_RISAT_2.html",
+    "cover_image": "images\\Indian_Space_Research_Organisation_1.webp"
+  },
+  {
+    "name": "PSLV-C9 / CARTOSAT – 2A",
+    "folder": "earth_observation\\PSLV-C9___CARTOSAT___2A",
+    "url": "https://www.isro.gov.in/PSLV_C9_Cartosat_2A.html",
+    "cover_image": "images\\PSLV-C9___CARTOSAT___2A_1.webp"
+  },
+  {
+    "name": "SROSS-2",
+    "folder": "earth_observation\\SROSS-2",
+    "url": "https://www.isro.gov.in/SROSS_2.html",
+    "cover_image": "images\\SROSS-2_1.webp"
+  },
+  {
+    "name": "Rohini Satellite RS-D2",
+    "folder": "earth_observation\\Rohini_Satellite_RS-D2",
+    "url": "https://www.isro.gov.in/RohiniSatellite_RS_D2.html",
+    "cover_image": "images\\Rohini_Satellite_RS-D2_1.webp"
+  },
+  {
+    "name": "Rohini Satellite RS-D1",
+    "folder": "earth_observation\\Rohini_Satellite_RS-D1",
+    "url": "https://www.isro.gov.in/RohiniSatellite_RS_D1.html",
+    "cover_image": "images\\Rohini_Satellite_RS-D1_1.webp"
+  }
+]

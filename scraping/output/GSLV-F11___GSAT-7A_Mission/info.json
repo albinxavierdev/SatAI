@@ -1,0 +1,17 @@
+{
+  "title": "GSLV-F11 / GSAT-7A Mission",
+  "url": "https://www.isro.gov.in/mission_GSLVF11.html",
+  "intro": "GSLV-F11 / GSAT-7A Mission Home / Activities / Missions accomplished",
+  "features": {
+    "Back to ISRO Timeline GSLV": "F11 successfully launched GSAT-7A, ISRO’s 39th communication satellite, on December 19, 2018 at 1610 hrs (IST) from the Second Launch Pad (SLP) of Satish Dhawan Space Centre SHAR, Sriharikota. GSLV-F11 is the 13th flight of India’s Geosynchronous Satellite Launch Vehicle (GSLV) and its 7th flight with indigenous Cryogenic Upper Stage (CUS). GSLV – F11 is ISRO’s fourth generation launch vehicle with three stages. The four liquid strap-ons and a solid rocket motor at the core form the first stage. The second stage of the vehicle is equipped with high thrust engine using liquid fuel. The Cryogenic Upper Stage forms the third and final stage of the vehicle. GSAT-7A with a lift-off mass of 2250 kg, is a geostationary satellite carrying communication transponders in Ku-band. The Satellite is built to provide communication capability to the users over the Indian region. More Details GSLV-F11 / GSAT-7A Mission GSAT-7A GSLV-F11 / GSAT-7A Mission Gallery Launch Kit PDF - 3.58 MB GSLV-F11 / GSAT-7A Mission PDF - 3.58 MB GSLV-F11 Curtain Raiser Video (English) GSLV-F11 Curtain Raiser Video (Hindi) GSLV-F11 Lift-off and Onboard Camera View"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/GSLV/gslv_f11_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/GSLV/gsat-7a_large.png.webp"
+  ],
+  "local_images": [
+    "images\\GSLV-F11___GSAT-7A_Mission_1.webp",
+    "images\\GSLV-F11___GSAT-7A_Mission_2.webp"
+  ],
+  "name": "GSLV-F11 / GSAT-7A Mission"
+}

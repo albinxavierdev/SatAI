@@ -1,0 +1,23 @@
+{
+  "title": "INSAT-2D",
+  "url": "https://www.isro.gov.in/INSAT_2D.html",
+  "intro": "INSAT-2D Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Communication",
+    "Weight": "2079 kg with propellants, 995 kg dry weight",
+    "onboard power": "1650 Watts",
+    "Communication": "C, extended C, S and Ku bands",
+    "Stabilization": "Three axis stabilized with two Momentum Wheels & one Reaction Wheel, Magnetic torquers",
+    "Propulsion": "Integrated bipropellan stystem ( MMH and N2 04) With sixteen 22N thrusters and 440N LAM.",
+    "Payload": "Transponders: 16C-band / extended C-band transponders (forFSS), 2 high power C-band transponders (for BSS), 1S-band transponder (for BSS),1C/S-band mobile communication transponder, 3 Ku-band transponders",
+    "Launch date": "June 4, 1997",
+    "Launch site": "French Guyana",
+    "Launch vehicle": "Arianev 4",
+    "Orbit": "Geostationary 93,.5deg.E",
+    "Inclination": "0 deg.",
+    "Back to ISRO Timeline INSAT": "2D, identical to INSAT-2C, was launched on June 4, 1997 but the satellite became in-operable since October 4, 1997 following a power bus anomaly and associated problems. Hence it was replaced by in-orbit satellite, ARABSAT-1C, designated as INSAT-2DT. प्रमोचन भार / Launch Mass: 2079 Kg मिशन कालावधि / Mission Life : Seven years(nominal) शक्ति / Power: 1650 Watts Ariane-44L H10-3 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) Mission Communication Weight 2079 kg with propellants, 995 kg dry weight onboard power 1650 Watts Communication C, extended C, S and Ku bands Stabilization Three axis stabilized with two Momentum Wheels & one Reaction Wheel, Magnetic torquers Propulsion Integrated bipropellan stystem ( MMH and N2 04) With sixteen 22N thrusters and 440N LAM. Payload Transponders: 16C-band / extended C-band transponders (forFSS), 2 high power C-band transponders (for BSS), 1S-band transponder (for BSS),1C/S-band mobile communication transponder, 3 Ku-band transponders Launch date June 4, 1997 Launch site French Guyana Launch vehicle Arianev 4 Orbit Geostationary 93,.5deg.E Inclination 0 deg."
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "INSAT-2D"
+}

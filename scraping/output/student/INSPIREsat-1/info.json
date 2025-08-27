@@ -1,0 +1,15 @@
+{
+  "title": "INSPIREsat-1",
+  "url": "https://www.isro.gov.in/mission_PSLV_C52_INSPIREsat.html",
+  "intro": "INSPIREsat-1 Home / Activities / Missions accomplished",
+  "features": {
+    "INSPIREsat": "1 from Indian Institute of Space Science & Technology (IIST) in association with Laboratory of Atmospheric & Space Physics at University of Colorado, Boulder प्रमोचक राकेट / Launch Vehicle: PSLV-C52/EOS-04 Mission उपग्रह का प्रकार / Type of Satellite: Student अनुप्रयोग / Application: Student Satellite More Details PSLV-C52/EOS-04 Mission EOS-04 INS-2TD INSPIREsat-1 Brochure PDF - 7.17 MB Gallery Launch of PSLV-C52/EOS-04 PSLV-C52 Liftoff and Onboard Camera View"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/resized/inspiresat_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\INSPIREsat-1_1.webp"
+  ],
+  "name": "INSPIREsat-1"
+}

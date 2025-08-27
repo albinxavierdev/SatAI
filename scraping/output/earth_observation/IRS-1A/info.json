@@ -1,0 +1,26 @@
+{
+  "title": "IRS-1A",
+  "url": "https://www.isro.gov.in/IRS_1A.html",
+  "intro": "IRS-1A Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Operational Remote Sensing",
+    "Weight": "975 kg",
+    "Onboard power": "600 Watts",
+    "Communication": "S-band, X-band and VHF(commanding only)",
+    "Stabilization": "Three axis body stabilized (zero momentum) with 4 Reactions Wheels, Magnetic torquers",
+    "RCS": "Monopropellant Hydrazine based with sixteen 1 Newton thrusters",
+    "Payload": "Three solid state Push Broom Cameras: LISS-1(72.5 metre resolution), LISS-2A and LISS-2B (36.25 metre resolution)",
+    "Launch date": "March 17, 1988",
+    "Launch site": "Baikanur Cosmodrome Kazakhstan",
+    "Launch vehicle": "Vostok",
+    "Orbit": "904 km Polar Sun-synchronous",
+    "Inclination": "99.08 o",
+    "Repetivity": "22 days (307 orbits)",
+    "Local time": "10.30 a.m. (descending node)",
+    "Mission completed during": "July 1996",
+    "Back to ISRO Timeline IRS": "1A, the first of the series of indigenous state-of-art remote sensing satellites, was successfully launched into a polar sun-synchronous orbit on March 17, 1988 from the Soviet Cosmodrome at Baikonur. IRS-1A carries two cameras, LISS-I and LISS-II with resolutions of 73 metres and 36.25 metres respectively with a swath width of about 140 km during each pass over the country. Mission completed during July 1996 after serving for 8 years and 4 months. प्रमोचन भार / Launch Mass: 975 kg शक्ति / Power: 600 W Vostok उपग्रह का प्रकार / Type of Satellite: Earth Observation निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Earth Observation कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit) Mission Operational Remote Sensing Weight 975 kg Onboard power 600 Watts Communication S-band, X-band and VHF(commanding only) Stabilization Three axis body stabilized (zero momentum) with 4 Reactions Wheels, Magnetic torquers RCS Monopropellant Hydrazine based with sixteen 1 Newton thrusters Payload Three solid state Push Broom Cameras: LISS-1(72.5 metre resolution), LISS-2A and LISS-2B (36.25 metre resolution) Launch date March 17, 1988 Launch site Baikanur Cosmodrome Kazakhstan Launch vehicle Vostok Orbit 904 km Polar Sun-synchronous Inclination 99.08 o Repetivity 22 days (307 orbits) Local time 10.30 a.m. (descending node) Mission completed during July 1996"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "IRS-1A"
+}

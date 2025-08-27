@@ -1,0 +1,25 @@
+{
+  "title": "EOS–07 MISSION",
+  "url": "https://www.isro.gov.in/EOS_07.html",
+  "intro": "",
+  "features": {
+    "Parameter": "Specification",
+    "Swath (km)": "1050km",
+    "Spatial resolution @ Nadir": "10km (20km @ swath edge)",
+    "Integration Time": "4ms",
+    "Scan Rate": "50rpm",
+    "Mass": "~13kg",
+    "Power": "~35W",
+    "Data Rate": "2Mbps",
+    "Input Frequency bands": "L-Band & S-Band",
+    "Output Interface": "LVDS 3-wire interface",
+    "Mission Objectives Design and develop a micro satellite as a payload for SSLV": "D2 Launch Vehicle. Design and develop payload instruments compatible to micro satellite bus and with new technologies that are required for future operational satellites. Design and develop a micro satellite accommodating new technology Payloads in a quick turn-around time. Spacecraft Configuration: - Mission Parameter: Orbit Altitude - 450 km Lift off mass ~ 157 kg Mission Life ~ 1 year Structure: Cuboid consists of 6 Aluminum Honeycomb Decks. Top and Bottom decks are connected with 4 staggered cross ribs and 4 closing vertical decks. Structure: Cuboid consists of 6 Aluminum Honeycomb Decks. Top and Bottom decks are connected with 4 staggered cross ribs and 4 closing vertical decks. Thermal Control: Passive thermal control with Optical Solar Reflector, Multi-Layer Insulation, Thermal interface material, etc. Mechanism: Frangi bolt actuator based Solar Panel deployment Propulsion: Monopropellant system; 5kg of Hydrazine fuel Power: Miniaturised power electronics and distribution package Li-ion battery of 27.2 Ah capacity Power generation of 357 W at EOL, equinox Sensors: micro Star Sensor (mSS) 4π Sun Sensor (4πSS) micro-Inertia Reference Unit (mIRU) Magnetometer (Mag) Actuators: 1N Thrusters 1Nms/ 0.02Nm Reaction Wheels 20 A.m2 Magnetic Torquers AOCS: Pointing accuracy – 0.1° (3σ) Drift rate – 7.5e-4°/s Onboard Computer: Telecommand and house-keeping Telemetry, Sensors Processing Electronics, Attitude and Orbit Control and Thermal Management. MIL STD 1553B protocol for interfacing with other sub-systems. RF System: S-Band Telemetry Transmitter S-Band Telecommand Receiver 12 channel SPS, 15m location accuracy, 0.15m/s velocity accuracy (3 - sigma) X-Band Data Transmitter Data Handling & Storage: Integrated Data Handling and storage of 32Gb Major Payloads: - mmWave Humidity Sounder (MHS) Parameter Specification Swath (km) 1050km Spatial resolution @ Nadir 10km (20km @ swath edge) Integration Time 4ms Scan Rate 50rpm Mass 26kg Power 55W Data Rate 1Mbps Spectrum Monitoring Payload (SMP) Parameter Specification Input Frequency bands L-Band & S-Band Output Interface LVDS 3-wire interface Mass ~13kg Power ~35W Data Rate 2Mbps"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/index/sslvd2/eos07.jpg.webp"
+  ],
+  "local_images": [
+    "images\\EOS_07_MISSION_1.webp"
+  ],
+  "name": "EOS–07 MISSION"
+}

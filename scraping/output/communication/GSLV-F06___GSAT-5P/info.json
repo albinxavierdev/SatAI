@@ -1,0 +1,20 @@
+{
+  "title": "GSLV-F06 / GSAT-5P",
+  "url": "https://www.isro.gov.in/mission_GSLVF06.html",
+  "intro": "GSLV-F06 / GSAT-5P Home / Activities / Missions accomplished",
+  "features": {
+    "Parameter": "GS1(First Stage)",
+    "S139 Booster": "L40H Strapon",
+    "Length (m)": "20.13",
+    "Diameter (m)": "2.8",
+    "Propellant mass (t)": "138",
+    "Case / Tank material": "Maraging steel",
+    "Propellant": "HTPB",
+    "Burn Time (s)": "106.9",
+    "Max. Vac. Thrust (kN)": "4768",
+    "Back to ISRO Timeline GSLV": "F06 was the seventh mission of Geosynchronous Satellite Launch Vehicle (GSLV) aimed to inject a 2310 kg communication satellite, GSAT-5P, into a Geosynchronous Transfer Orbit (GTO). The major changes incorporated in compared to the previous flight include loading of 15 tonnes of propellants in its third stage and the uprating of the third stage thrust by 26%. Besides, the overall length of the vehicle was increased by about 1.3 metres. However, mission was not successful More Details GSLV-F06 / GSAT-5P GSAT-5P Gallery Brochure PDF - 1.19 MB GSLV–F06 Stages at a glance Parameter GS1(First Stage) GS2(Second Stage) (L37.5H) GS3(Third Stage) (C15) S139 Booster L40H Strapon Length (m) 20.13 19.7 11.56 9.8 Diameter (m) 2.8 2.1 2.8 2.8 Propellant mass (t) 138 42 39.4 15.2 Case / Tank material Maraging steel Aluminium Alloy Aluminium Alloy Aluminium Alloy Propellant HTPB UH25 and N2O4 UH25 and N2O4 LH2 and LOX Burn Time (s) 106.9 148 137 838 Max. Vac. Thrust (kN) 4768 763 799 73.5 (Nominal) Control System Engine Gimballing -Single Plane Engine Gimalling – Two plane for pitch and yaw control, hot gas Reaction Control System (RCS) for roll control 2 Vernier engines for thrust phase control and cold gas RCS for coast phase control."
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "GSLV-F06 / GSAT-5P"
+}

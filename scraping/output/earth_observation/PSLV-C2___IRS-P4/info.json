@@ -1,0 +1,19 @@
+{
+  "title": "PSLV-C2 / IRS-P4",
+  "url": "https://www.isro.gov.in/mission_PSLV_C2.html",
+  "intro": "PSLV-C2 / IRS-P4 Home / Activities / Missions accomplished",
+  "features": {
+    "Nomenclature": "Core PSI + Strap-on PSOM 6Nos.",
+    "Propellant": "Solid HTPB Based",
+    "Propellant Mass (tonnes)": "138.0 + 6X9.0",
+    "Stage Mass (tonnes)": "229",
+    "Max Thrust (kN)": "4628 + 662 x 6",
+    "Burn time (sec)": "107.4 45",
+    "Stage Dia(m)": "2.8 1.0",
+    "Stage Length(m)": "20 10",
+    "Back to ISRO Timeline PSLV": "C2, The second operational launch of India's Polar Satellite Launch Vehicle (PSLV) placed three satellites - Indian Remote Sensing Satellite (IRS-P4) as the main payload and Korean KITSAT-3 and German DLR-TUBSAT as auxiliary payloads - into a 727 km polar sunsynchronous orbit. It was for the first time that ISRO launched three satellites in a single vehicle. While IRS-P4(OCEANSAT) Weight 1050 kg, KITSAT-3 and DLR-TUBSAT weight 107 kg and 45 kg respectively. The two auxilary payloads are mounted on PSLV equipment bay diametrically opposite to each other. More Details PSLV-C2/IRS-P4 Oceansat(IRS-P4) Brochure PDF - 2.00 MB The main payload, IRS-P4,is mounted on top of the equipment bay as in earlier flights of PSLV. In the flight sequence, IRS-P4 is injected first, followed by KITSAT-3 and DLR-TUBSAT in that order. With a lift of weight of 294 tone, the 44.4m tall PSLV is a four stage vehicle employing solid propellant stages in the first and third stages and liquid propellant stages in the second and fourth stages. It also employs six solid propellant strap-on motors for the first stage. PSLV was launched from ISRO's Satish Dhawan Space Centre, SHAR, Sriharikota, about 100 km north of Chennai. The first operational flight of PSLV took place on September 29,1997 which has put IRS-1D into polar sunsynchronous orbit. Antrix Corporation, the commercial front of the Department of Space, markets PSLV launch services on behalf of ISRO. Stage-1 Stage-2 Stage-3 Stage-4 Nomenclature Core PSI + Strap-on PSOM 6Nos. PS2 PS3 PS4 Propellant Solid HTPB Based Liquid UDMH+ N2O4 Solid HTPB Based Bi-Prop MMH + N2O4 Propellant Mass (tonnes) 138.0 + 6X9.0 40.6 7.2 2.0 Stage Mass (tonnes) 229 46 8.4 2.89 Max Thrust (kN) 4628 + 662 x 6 725 340 7.4 x 2 Burn time (sec) 107.4 45 163 76 415 Stage Dia(m) 2.8 1.0 2.8 2.0 1.3 Stage Length(m) 20 10 12.5 3.6 2.1"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "PSLV-C2 / IRS-P4"
+}

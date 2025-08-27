@@ -1,0 +1,19 @@
+{
+  "title": "PSLV-C7/CARTOSAT-2/SRE-1",
+  "url": "https://www.isro.gov.in/mission_PSLV_C7_CARTOSAT_2_SRE_1.html",
+  "intro": "PSLV-C7 / CARTOSAT-2 / SRE-1 Home / Activities / Missions accomplished",
+  "features": {
+    "Nomenclature": "Core (PSI) + Six Strap-ons (PSOM)",
+    "Propellant": "Solid HTPB Based",
+    "Mass (Tonne)": "138.0 + 6 x 9.0",
+    "Max Thrust (kN)": "4762.0 6 x 645",
+    "Burn Time (sec)": "101 44",
+    "Stage Dia (m)": "2.8 1.0",
+    "Stage Length (m)": "20 10",
+    "Control": "SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll, SITVC in one PSOM for Roll Control Augmentation",
+    "PSLV": "C7 successfully launched four satellites - India's CARTOSAT-2 and Space capsule Recovery Experiment (SRE-1) , Indonesia's LAPAN-TUBSAT and Argentina's PEHUENSAT-1 into a 635 km high polar orbit. For the first time, a Dual Launch Adopter (DLA) was used in PSLV to accommodate two primary satellites in tandem. PSLV is the workhorse launch vehicle of the Indian Space Research Organisation (ISRO) with eight consecutively successful nights so far. Since its first successful launch in 1994, PSLV has launched seven Indian remote sensing satellites, an amateur radio satellite, HAMSAT and four small satellites for foreign customers into 550-800 km high polar SSOs. Besides, it has also launched India's exclusive meteorological satellite, Kalpana-I, into Geosynchronous Transfer Orbit (GTO). PSLV will also be used to launch India's first spacecraft mission to moon. Chandrayaan-I, during 2008. More Details CARTOSAT-2 SRE-1 Brochure PDF - 1.17 MB The 44 m tall PSLV has a lift-of mass of 295 tonne. It is a four-stage launch vehicle with the first and the third stages as well as the six strap-ons surrounding the first stage using HTPB based solid propellant. PSLV's first stage is one of the largest solid propellant boosters in the world. Its second and fourth stages use liquid propellants. PSLV's bulbous payload fairing has a diameter of 3.2 metre. The vehicle has S-band telemetry and C-band transponder systems for monitoring its health and flight status. It also has sophisticated auxiliary systems like stage and payload fairing separation systems. PSLV was originally designed to put 1.000 kg class of India's remote sensing satellites into a 900 km polar SSO. The payload capability of PSLV has been successively enhanced and in its last flight, PSLV-C6 in May 2005, it launched two payloads - a 1,560 kg CARTOSAT-1 and the 42 kg HAMSAT into a 620 km SSO. Some of the modifications incorporated in PSLV-C7 compared to the previous flight, PSLV-C6 are: Use of Dual Launch Adopter Reduction of propellant from 2.5 tonne to 2 tonne in the fourth liquid propellant stage (PS4) Modifications in PSLV fourth stage control electronics Incorporation of Video Imaging System to capture payload and DLA separation events Altitude based Day of Launch wind biased steering programme during Open Loop Guidance Deletion of Secondary Injection Thrust Vector Control (SITVC) system for one of the strapons ignited in the air Reduction of PSLV first stage SITVC injectant by 500 kg PSLV stages at a glance STAGE-1 STAGE-2 STAGE-3 STAGE-4 Nomenclature Core (PSI) + Six Strap-ons (PSOM) PS2 PS3 PS4 Propellant Solid HTPB Based Liquid UH25+N204 Solid HTPB based Bi-prop MMH + MON-3 Mass (Tonne) 138.0 + 6 x 9.0 41.5 7.6 2.0 Max Thrust (kN) 4762.0 6 x 645 800 246 7.3 X 2 Burn Time (sec) 101 44 147 104 406 Stage Dia (m) 2.8 1.0 2.8 2.0 2.8 Stage Length (m) 20 10 12.8 3.6 2.9 Control SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll, SITVC in one PSOM for Roll Control Augmentation Engine Gimbal for Pitch & Yaw, Hot Gas Reaction Control Motor for Roll Control Flex Nozzle for Pitch & Yaw, PS4 RCS for Roll Engine Gimbal for Pitch, Yaw and Roll, On-off RCS for Coast Phase Control."
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "PSLV-C7/CARTOSAT-2/SRE-1"
+}

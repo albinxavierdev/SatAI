@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Indian Space Research Organisation",
+    "folder": "scientific\\Indian_Space_Research_Organisation",
+    "url": "https://www.isro.gov.in/index.html",
+    "cover_image": "images\\Indian_Space_Research_Organisation_1.png"
+  },
+  {
+    "name": "Satellites",
+    "folder": "scientific\\Satellites",
+    "url": "https://www.isro.gov.in/Satellites.html",
+    "cover_image": "images\\Satellites_1.webp"
+  },
+  {
+    "name": "AstroSat MISSION",
+    "folder": "scientific\\AstroSat_MISSION",
+    "url": "https://www.isro.gov.in/AstroSat.html",
+    "cover_image": "images\\AstroSat_MISSION_1.webp"
+  },
+  {
+    "name": "Indian Space Research Organisation",
+    "folder": "scientific\\Indian_Space_Research_Organisation",
+    "url": "https://www.isro.gov.in/MOM.html",
+    "cover_image": "images\\Indian_Space_Research_Organisation_1.webp"
+  },
+  {
+    "name": "PSLV-C45/EMISAT MISSION",
+    "folder": "scientific\\PSLV-C45_EMISAT_MISSION",
+    "url": "https://www.isro.gov.in/PSLV_C11_chandrayaan_1.html",
+    "cover_image": "images\\PSLV-C45_EMISAT_MISSION_1.webp"
+  },
+  {
+    "name": "GSLV-Mk III - M1 / Chandrayaan-2 Mission",
+    "folder": "scientific\\GSLV-Mk_III_-_M1___Chandrayaan-2_Mission",
+    "url": "https://www.isro.gov.in/mission_GSLVMkIIIM1.html",
+    "cover_image": "images\\GSLV-Mk_III_-_M1___Chandrayaan-2_Mission_1.webp"
+  },
+  {
+    "name": "Chandrayaan-3 Details",
+    "folder": "scientific\\Chandrayaan-3_Details",
+    "url": "https://www.isro.gov.in/Chandrayaan3_Details.html",
+    "cover_image": "images\\Chandrayaan-3_Details_1.webp"
+  },
+  {
+    "name": "ADITYA-L1 Mission Details",
+    "folder": "scientific\\ADITYA-L1_Mission_Details",
+    "url": "https://www.isro.gov.in/Aditya_L1-MissionDetails.html",
+    "cover_image": "images\\ADITYA-L1_Mission_Details_1.jpg"
+  }
+]

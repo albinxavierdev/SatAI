@@ -1,0 +1,18 @@
+{
+  "title": "PSLV-C17/GSAT-12",
+  "url": "https://www.isro.gov.in/mission_PSLVC17.html",
+  "intro": "PSLV-C17/GSAT-12 Home / Activities / Missions accomplished",
+  "features": {
+    "Nomenclature": "Core Stage(PSI)+6 Strap-on Motors",
+    "Propellant": "Solid (HTPB Based)",
+    "Mass (Tonne)": "138.0 (Core)+6 x 12.0 (Strap-on)",
+    "Max Thrust (kN)": "4703 (Core) 6 x 670 (Strap-on)",
+    "Burn Time (sec)": "107 (Core) 55 (Strap-on)",
+    "Stage Dia (m)": "2.8 (Core) 1.0 (Strap-on)",
+    "Stage Length (m)": "20 (Core) 14.7 (Strap-on)",
+    "Back to ISRO Timeline Polar Satellite Launch Vehicle (PSLV": "C17), in its nineteenth flight, launches India's communication satellite GSAT-12 from the Second Launch Pad of Satish Dhawan Space Centre, SHAR, Sriharikota, India. PSLV-C17 measuring 44.5 m height, with a lift off weight of 320 tonnes has four stages of solid and liquid propulsion systems alternately. In its XL Version, PSLV-XL uses six extended solid strap-on motors wherein each strap-on carries 12 tonnes of solid propellant. This is a second time such a configuration is being flown, earlier one being the PSLV-C11/Chandrayaan-I mission. More Details PSLV-C17/GSAT-12 GSAT-12 Gallery Brochure PDF - 766 KB Salient feature of PSLV-C17/GSAT-12 Mission: For the first time, use of indigenously designed and developed On-Board computer (OBC) with Vikram 1601 processor in both primary and redundant chains of the vehicle. The OBC performs the functions of Navigation, Guidance and Control processing for the vehicle. Use of extended solid strap-on configuration. Satellite injection in elliptical transfer orbit sub-Geosynchronous Transfer Orbit (GTO). Five burn strategy (2 perigee burn and 3 apogee burn) for placing the GSAT-12 satellite from its sub-GTO (Geosynchronous Transfer Orbit) to Geostationary Orbit. PSLV- C17 Stages at a Glance STAGE-1 STAGE-2 STAGE-3 STAGE-4 Nomenclature Core Stage(PSI)+6 Strap-on Motors PS2 PS3 PS4 Propellant Solid (HTPB Based) Liquid (UH25+N2O4) Solid (HTPB Based) Liquid (MMH+MON-3) Mass (Tonne) 138.0 (Core)+6 x 12.0 (Strap-on) 41.0 7.6 2.5 Max Thrust (kN) 4703 (Core) 6 x 670 (Strap-on) 804 244 7.3 X 2 Burn Time (sec) 107 (Core) 55 (Strap-on) 151 116 510 Stage Dia (m) 2.8 (Core) 1.0 (Strap-on) 2.8 2.0 2.8 Stage Length (m) 20 (Core) 14.7 (Strap-on) 12.8 3.6 2.6"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "PSLV-C17/GSAT-12"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PSLV-C50/CMS-01",
+    "folder": "PSLV-C50_CMS-01",
+    "url": "https://www.isro.gov.in/mission_PSLV_C50.html",
+    "cover_image": "images\\PSLV-C50_CMS-01_1.webp"
+  },
+  {
+    "name": "GSAT-30",
+    "folder": "GSAT-30",
+    "url": "https://www.isro.gov.in/GSAT_30.html",
+    "cover_image": "images\\GSAT-30_1.webp"
+  },
+  {
+    "name": "GSAT-7A",
+    "folder": "GSAT-7A",
+    "url": "https://www.isro.gov.in/GSAT_7A.html",
+    "cover_image": "images\\GSAT-7A_1.webp"
+  },
+  {
+    "name": "GSLV-F11 / GSAT-7A Mission",
+    "folder": "GSLV-F11___GSAT-7A_Mission",
+    "url": "https://www.isro.gov.in/mission_GSLVF11.html",
+    "cover_image": "images\\GSLV-F11___GSAT-7A_Mission_1.webp"
+  },
+  {
+    "name": "GSLV-F09 / GSAT-9",
+    "folder": "GSLV-F09___GSAT-9",
+    "url": "https://www.isro.gov.in/mission_GSLVF09.html",
+    "cover_image": "images\\GSLV-F09___GSAT-9_1.webp"
+  },
+  {
+    "name": "GSAT-15",
+    "folder": "GSAT-15",
+    "url": "https://www.isro.gov.in/GSAT_15.html",
+    "cover_image": "images\\GSAT-15_1.webp"
+  },
+  {
+    "name": "GSLV-D6",
+    "folder": "GSLV-D6",
+    "url": "https://www.isro.gov.in/mission_GSLVD6.html",
+    "cover_image": "images\\GSLV-D6_1.webp"
+  },
+  {
+    "name": "GSAT-16",
+    "folder": "GSAT-16",
+    "url": "https://www.isro.gov.in/GSAT_16.html",
+    "cover_image": "images\\GSAT-16_1.webp"
+  },
+  {
+    "name": "GSLV-D5GSAT-14",
+    "folder": "GSLV-D5GSAT-14",
+    "url": "https://www.isro.gov.in/mission_GSLV_D5GSAT_14.html",
+    "cover_image": "images\\GSLV-D5GSAT-14_1.webp"
+  },
+  {
+    "name": "GSAT-8",
+    "folder": "GSAT-8",
+    "url": "https://www.isro.gov.in/GSAT_8.html",
+    "cover_image": "images\\GSAT-8_1.webp"
+  },
+  {
+    "name": "INSAT-4B",
+    "folder": "INSAT-4B",
+    "url": "https://www.isro.gov.in/INSAT_4B.html",
+    "cover_image": "images\\INSAT-4B_1.webp"
+  }
+]

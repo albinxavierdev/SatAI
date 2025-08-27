@@ -1,0 +1,23 @@
+{
+  "title": "INSAT-3D",
+  "url": "https://www.isro.gov.in/INSAT_3D.html",
+  "intro": "INSAT-3D Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Meteorological and Search & Rescue Services",
+    "Mass At Lift-Off": "2060 kg",
+    "Power": "Solar panel generating 1164 W Two 18 Ah Ni-Cd batteries",
+    "Physical Dimensions": "2.4m x 1.6m x 1.5m",
+    "Propulsion": "440 Newton Liquid Apogee Motor (LAM) and twelve 22 Newton thrusters with Mono Methyl Hydrazine (MMH) as fuel and mixed Oxides of Nitrogen (MON-3) as oxidizer",
+    "Stabilisation": "3-asix body stabilized in orbit using Sun Sensors, Star Sensors, gyroscopes, Momentum and Reaction Wheels, Magnetic Torquers and thrusters",
+    "Antennae": "0.9m and 1.0m body mounted antennas",
+    "Launch date": "July 26, 2013",
+    "Launch site": "Kourou, French Guiana",
+    "Launch vehicle": "Ariane-5 VA-214",
+    "Orbit": "Geostationary, 82 deg E Longitude",
+    "Mission life": "7 Years",
+    "Back to ISRO Timeline INSAT": "3D is an advanced weather satellite of India configured with improved Imaging System and Atmospheric Sounder. INSAT-3D is designed for enhanced meteorological observations, monitoring of land and ocean surfaces, generating vertical profile of the atmosphere in terms of temperature and humidity for weather forecasting and disaster warning. It carries four payloads - 6 channel multi-spectral Imager 19 channel Sounder Data Relay Transponder (DRT) Search and Rescue Transponder The payloads of INSAT-3D provides continuity and further augment the capability to provide various meteorological as well as search and rescue services. प्रमोचन भार / Launch Mass: 2060 Kg आयाम / Dimension: 2.4m x 1.6m x 1.5m मिशन कालावधि / Mission Life : 7 Years शक्ति / Power: 1164 W Ariane-5 VA-214 उपग्रह का प्रकार / Type of Satellite: Earth Observation निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Climate & Environment Disaster Management System कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) Mission Meteorological and Search & Rescue Services Mass At Lift-Off 2060 kg Power Solar panel generating 1164 W Two 18 Ah Ni-Cd batteries Physical Dimensions 2.4m x 1.6m x 1.5m Propulsion 440 Newton Liquid Apogee Motor (LAM) and twelve 22 Newton thrusters with Mono Methyl Hydrazine (MMH) as fuel and mixed Oxides of Nitrogen (MON-3) as oxidizer Stabilisation 3-asix body stabilized in orbit using Sun Sensors, Star Sensors, gyroscopes, Momentum and Reaction Wheels, Magnetic Torquers and thrusters Antennae 0.9m and 1.0m body mounted antennas Launch date July 26, 2013 Launch site Kourou, French Guiana Launch vehicle Ariane-5 VA-214 Orbit Geostationary, 82 deg E Longitude Mission life 7 Years"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "INSAT-3D"
+}

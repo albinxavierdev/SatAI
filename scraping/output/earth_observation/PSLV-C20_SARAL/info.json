@@ -1,0 +1,19 @@
+{
+  "title": "PSLV-C20/SARAL",
+  "url": "https://www.isro.gov.in/mission_PSLV_C20.html",
+  "intro": "PSLV-C20/SARAL Home / Activities / Missions accomplished",
+  "features": {
+    "Nomenclature": "PS1",
+    "Propellant": "Solid (HTPB Based)",
+    "Mass (Tonne)": "138.0",
+    "Max Thrust (kN)": "4787",
+    "Burn Time (sec)": "102",
+    "Stage Dia (m)": "2.8",
+    "Stage Length (m)": "20",
+    "Control": "SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll Control",
+    "s Polar Satellite Launch Vehicle in its twenty third flight (PSLV": "C20), launches the Indo-French satellite SARAL along with six commercial payloads from Canada, Austria, Denmark and UK into a 785 km polar sun synchronous orbit inclined at an angle of 98.538 deg to the equator. PSLV-C20 was launched on Feb 25, 2013 from the First Launch Pad of Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota. With a lift-off mass of 407 kg, SARAL is the 56th satellite launched by PSLV. The six payloads from abroad together have a lift-off mass of 259.5 kg. PSLV-C20 is the ninth flight of PSLV in 'Core-Alone' configuration (without solid strap-on motors). More Details PSLV-C20/SARAL SARAL Gallery Brochure PDF - 7.80 MB PSLV- C20 Stages at a Glance STAGE-1 STAGE-2 STAGE-3 STAGE-4 Nomenclature PS1 PS2 PS3 PS4 Propellant Solid (HTPB Based) Liquid (UH25 + N2O4) Solid (HTPB Based) Liquid (MMH + MON-3) Mass (Tonne) 138.0 41.0 7.6 2.5 Max Thrust (kN) 4787 804 242 7.3 X 2 Burn Time (sec) 102 148 110 526 Stage Dia (m) 2.8 2.8 2.0 2.8 Stage Length (m) 20 12.8 3.6 2.6 Control SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll Control Engine Gimbal for Pitch & Yaw, Hot Gas Reaction Control Motor for Roll Control Flex Nozzle for Pitch & Yaw, PS4 Reaction Control System (RCS) for Roll Control Engine Gimbal for Pitch, Yaw & Roll, on-off RCS for Coast Phase Control"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "PSLV-C20/SARAL"
+}

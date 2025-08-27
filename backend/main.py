@@ -244,6 +244,32 @@ As Vedika, please provide a comprehensive answer based on the context provided a
         logger.error(f"Error generating answer: {e}")
         return f"Sorry, I encountered an error while generating the answer: {str(e)}"
 
+def generate_fallback_answer(query: str, context_docs: List[Dict[str, Any]]) -> str:
+    """
+    Generate a simple fallback answer when OpenRouter is unavailable.
+    Concatenates key snippets from the retrieved documents.
+    """
+    if not context_docs:
+        return "I couldn't find any relevant information in the ISRO database for your query."
+
+    # Take top 3 docs and synthesize a brief response
+    snippets = []
+    for idx, doc in enumerate(context_docs[:3], start=1):
+        name = None
+        if isinstance(doc.get("metadata"), dict):
+            name = doc["metadata"].get("record_name")
+        header = f"Source {idx}{f' - {name}' if name else ''}:"
+        content = str(doc.get("content", "")).strip()
+        if len(content) > 400:
+            content = content[:400] + "…"
+        snippets.append(f"{header}\n{content}")
+
+    joined = "\n\n".join(snippets)
+    return (
+        "OpenRouter is not configured, so here is a context-based summary from the most relevant documents.\n\n"
+        f"Question: {query}\n\n{joined}"
+    )
+
 @app.on_event("startup")
 async def startup_event():
     """Initialize services on startup."""
@@ -297,8 +323,7 @@ async def query_knowledge_base(request: QueryRequest):
         if not collection:
             raise HTTPException(status_code=503, detail="ChromaDB not available")
         
-        if not openrouter_client:
-            raise HTTPException(status_code=503, detail="OpenRouter not available")
+        # OpenRouter may be unavailable in local/dev. We'll gracefully fallback.
         
         # Search for relevant documents
         relevant_docs = search_chromadb(request.query, request.max_results)
@@ -312,8 +337,11 @@ async def query_knowledge_base(request: QueryRequest):
                 model_used=get_environment_variables()["model"]
             )
         
-        # Generate answer using LLM
-        answer = generate_answer_with_context(request.query, relevant_docs)
+        # Generate answer using LLM if available; otherwise fallback
+        if openrouter_client:
+            answer = generate_answer_with_context(request.query, relevant_docs)
+        else:
+            answer = generate_fallback_answer(request.query, relevant_docs)
         
         # Prepare response documents
         response_docs = []

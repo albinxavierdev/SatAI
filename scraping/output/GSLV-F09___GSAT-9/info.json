@@ -1,0 +1,17 @@
+{
+  "title": "GSLV-F09 / GSAT-9",
+  "url": "https://www.isro.gov.in/mission_GSLVF09.html",
+  "intro": "GSLV-F09/ GSAT-9 Home /Activities/ Missions accomplished",
+  "features": {
+    "Back to ISRO Timeline GSLV": "F09 launches 2230 kg South Asia Satellite GSAT-9 into a Geosynchronous Transfer Orbit (GTO). GSLV-F09 mission is the eleventh flight of India’s Geosynchronous Satellite Launch Vehicle (GSLV) and its fourth consecutive flight with the indigenous Cryogenic Upper Stage (CUS). The vehicle is designed to inject 2 - 2.5 ton class of satellites into GTO. The overall length of GSLV-F09 is 49.1 m. GSLV-F09 was launched on May 05, 2017 from the Second Launch Pad (SLP) at Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota, the space port of India. GSLV-F09 vehicle configuration including the CUS is similar to the ones successfully flown during the previous three missions – GSLV-D5, D6 and F05 – in January 2014, August 2015 and September 2016 respectively. GSLV-D5 and D6 successfully placed two communication satellites –GSAT-14 and GSAT-6, while GSLV-F05 placed India’s weather satellite INSAT-3DR, in the intended GTOs. S-band telemetry and C-band transponders enable GSLV-F09 performance monitoring, tracking, range safety/flight safety and Preliminary Orbit Determination (POD). More Details GSAT-9 Brochure PDF-1.73 MB GSLV-F09 / GSAT-9 Gallery More Details GSAT-9 Brochure PDF-1.73 MB GSLV-F09 / GSAT-9 Gallery"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/GSLV/GSLVF09/gsat/resized/gsat-9_stowed_view_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/media/Missions/GSLV/GSLVF09/gsat/resized/gsat9_assly_new_large.png.webp"
+  ],
+  "local_images": [
+    "images\\GSLV-F09___GSAT-9_1.webp",
+    "images\\GSLV-F09___GSAT-9_2.webp"
+  ],
+  "name": "GSLV-F09 / GSAT-9"
+}

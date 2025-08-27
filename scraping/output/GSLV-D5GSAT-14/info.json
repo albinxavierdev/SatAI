@@ -1,0 +1,23 @@
+{
+  "title": "GSLV-D5GSAT-14",
+  "url": "https://www.isro.gov.in/mission_GSLV_D5GSAT_14.html",
+  "intro": "GSLV-D5/GSAT-14 Home / Activities/ Missions / (GSLV-D5GSAT-14)",
+  "features": {
+    "Parameter": "First Stage",
+    "Strap-Ons 4 L40 H": "Core Stage S139",
+    "Length (m)": "19.7",
+    "Diameter (m)": "2.1",
+    "Propellants": "UH25&N2O4",
+    "Propellant mass(T)": "4X42.6",
+    "Max. Thrust(kN)": "680",
+    "Duration (sec)": "148",
+    "Back to ISRO Timeline GSLV": "D5 is the eighth flight of India's Geosynchronous Satellite Launch Vehicle (GSLV). It is also the fourth developmental flight of GSLV. GSLV-D5 vehicle is configured with its first and second stages similar to the ones flown during earlier GSLV missions. The third stage is the Indigenous Cryogenic Stage. The metallic payload fairing with a diameter of 3.4 metre is adopted for GSLV-D5. S-band telemetry and C-band transponders enable GSLV-D5 performance monitoring, tracking, range safety / flight safety and Preliminary Orbit Determination (POD). GSLV-D5 was launched from the Second Launch Pad (SLP) at Satish Dhawan Space Centre SHAR, Sriharikota on January 05, 2014. More Details GSLV-D5/GSAT-14 Indigenous Cryogenic Engine and Stage GSAT-14 Brochure PDF-3.67MB GSLV-D5/GSAT-14 Gallery GSLV-D5 Stages at a glance Parameter First Stage Second Stage Third Stage Strap-Ons 4 L40 H Core Stage S139 Length (m) 19.7 20.1 11.6 8.7 Diameter (m) 2.1 2.8 2.8 2.8 Propellants UH25&N2O4 HTPB UH25&N2O4 LH2&LOX Propellant mass(T) 4X42.6 138.2 39.5 12.8 Max. Thrust(kN) 680 4800 720 75 Duration (sec) 148 100 150 720 More Details GSLV-D5/GSAT-14 Indigenous Cryogenic Engine and Stage GSAT-14 Brochure PDF-3.67MB GSLV-D5/GSAT-14 Gallery"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/GSLV/more/GSLV-D5GSAT-14/gslv-d5-23_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\GSLV-D5GSAT-14_1.webp"
+  ],
+  "name": "GSLV-D5GSAT-14"
+}

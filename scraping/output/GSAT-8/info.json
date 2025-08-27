@@ -1,0 +1,27 @@
+{
+  "title": "GSAT-8",
+  "url": "https://www.isro.gov.in/GSAT_8.html",
+  "intro": "GSAT-8 Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Communication",
+    "Weight": "3093 kg (Mass at Lift – off) 1426 kg (Dry Mass)",
+    "Power": "Solar array providing 6242 watts three 100 Ah Lithium Ion batteries",
+    "Physical Dimensions": "2.0 x 1.77 x 3.1m cuboid",
+    "Propulsion": "440 Newton Liquid Apogee Motors (LAM) with mono Methyl Hydrazine (MMH) as fuel and Mixed oxides of Nitrogen (MON-3) as oxidizer for orbit raising.",
+    "Stabilisation": "3-axis body stabilised in orbit using Earth Sensors, Sun Sensors, Momentum and Reaction Wheels, Magnetic Torquers and eight 10 Newton and eight 22 Newton bipropellant thrusters",
+    "Antennas": "Two indigenously developed 2.2 m diameter transmit/receive polarisation sensitive dual grid shaped beam deployable reflectors with offset-fed feeds illumination for Ku-band; 0.6 m C-band and 0.8x0.8 sq m L-band helix antenna for GAGAN",
+    "Launch date": "May 21, 2011",
+    "Launch site": "Kourou, French Guiana",
+    "Launch vehicle": "Ariane-5 VA-202",
+    "Orbit": "Geosynchronous (55° E)",
+    "Mission life": "More Than 12 Years",
+    "Launch Mass": "3093 kg आयाम / Dimension: 2.0 x 1.77 x 3.1m cuboid मिशन कालावधि / Mission Life : More Than 12 Years शक्ति / Power: 6242 Watt Ariane-5 VA-202 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication Navigation कक्षा का प्रकार / Orbit Type: GEO GSAT-8, India’s advanced communication satellite, is a high power communication satellite being inducted in the INSAT system. Weighing about 3100 Kg at lift-off, GSAT-8 is configured to carry 24 high power transponders in Ku-band and a two-channel GPS Aided Geo Augmented Navigation (GAGAN) payload operating in L1 and L5 bands. The 24 Ku band transponders will augment the capacity in the INSAT system. The GAGAN payload provides the Satellite Based Augmentation System (SBAS), through which the accuracy of the positioning information obtained from the GPS Satellite is improved by a network of ground based receivers and made available to the users in the country through the geostationary satellites. Mission Communication Weight 3093 kg (Mass at Lift – off) 1426 kg (Dry Mass) Power Solar array providing 6242 watts three 100 Ah Lithium Ion batteries Physical Dimensions 2.0 x 1.77 x 3.1m cuboid Propulsion 440 Newton Liquid Apogee Motors (LAM) with mono Methyl Hydrazine (MMH) as fuel and Mixed oxides of Nitrogen (MON-3) as oxidizer for orbit raising. Stabilisation 3-axis body stabilised in orbit using Earth Sensors, Sun Sensors, Momentum and Reaction Wheels, Magnetic Torquers and eight 10 Newton and eight 22 Newton bipropellant thrusters Antennas Two indigenously developed 2.2 m diameter transmit/receive polarisation sensitive dual grid shaped beam deployable reflectors with offset-fed feeds illumination for Ku-band; 0.6 m C-band and 0.8x0.8 sq m L-band helix antenna for GAGAN Launch date May 21, 2011 Launch site Kourou, French Guiana Launch vehicle Ariane-5 VA-202 Orbit Geosynchronous (55° E) Mission life More Than 12 Years"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/gsat8_img_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\GSAT-8_1.webp"
+  ],
+  "name": "GSAT-8"
+}

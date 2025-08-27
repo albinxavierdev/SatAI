@@ -1,0 +1,20 @@
+{
+  "title": "Indian Space Research Organisation",
+  "url": "https://www.isro.gov.in/mission_GSLV_D3_GSAT_4.html",
+  "intro": "GSLV-D3 / GSAT-4 Home/ Activites/ Missions accomplished",
+  "features": {
+    "Parameter": "GS1 (First Stage)",
+    "S139 Booster": "L40H Strap-on",
+    "Length (m)": "20.13",
+    "Dia (m)": "2.8",
+    "Propellant mass (t)": "138.25",
+    "Case / Tank material": "Maraging steel",
+    "Propellant": "HTPB",
+    "Burn Time (s)": "109.8(action time)",
+    "Max. Vac. Thrust (kN)": "4707",
+    "Back to ISRO Timeline The GSLV": "D3 was the sixth flight of ISRO's Geosynchronous Satellite Launch Vehicle (GSLV) as well as its third developmental flight. In this flight, GSLV was to launch 2220 kg GSAT-4, an experimental advanced technology communication satellite. GSLV-D3 was the maiden flight of GSLV in which the indigenous Cryogenic Upper Stage (CUS) was used. GSLV-D3 was launched from the Second Launch Pad (SLP) at Satish Dhawan Space Centre SHAR, Sriharikota on April 15, 2010. Flight testing of the Indigenous Cryogenic Stage was unsuccessful. More Details GSLV-D3/GSAT-4 GSAT-4 Gallery GSLV–D3 Stages at a glance Parameter GS1 (First Stage) GS2 (Second Stage) (L37.5H) GS3 (Third Stage) (CUS12) S139 Booster L40H Strap-on Length (m) 20.13 19.7 11.56 8.7 Dia (m) 2.8 2.1 2.8 2.8 Propellant mass (t) 138.25 42.67 39.42 12.85 Case / Tank material Maraging steel Aluminium Alloy Aluminium Alloy Aluminium Alloy Propellant HTPB UH25 and N2O4 UH25 and N2O4 LH2 and LOX Burn Time (s) 109.8(action time) 149.3 (steady state time) 136 (steady state time) 714.4 (from ignition to shut off) Max. Vac. Thrust (kN) 4707 763 799 73.5 (Normal) 82.0 (uprated) Control System Engine gimballing -Single Plane Engine Gimalling – two place for pitch and yaw control, hot gas Reaction Control System (RCS) for roll control 2 Vernier engines for thrust phase control and cold gas RCS for cost phase control."
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "Indian Space Research Organisation"
+}

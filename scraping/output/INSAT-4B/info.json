@@ -1,0 +1,28 @@
+{
+  "title": "INSAT-4B",
+  "url": "https://www.isro.gov.in/INSAT_4B.html",
+  "intro": "INSAT-4B Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Communication",
+    "Weight": "3025 kg (at Lift – off)",
+    "Onboard Power": "5859 W",
+    "Stabilization": "It uses 3 earth sensors, 2 digital sun sensors, 8 coarse analog sun sensors, 3 solar panel sun sensors and one sensor processing electronics. The wheels and wheel drive electronics were imported with indigenous wheel interface module to interface the wheel drive electronics and AOCE.",
+    "Propulsion": "The propulsion system is employing 16 thrusters, 4 each located on east, west and AY sides and 2 each on north and south sides. There is one 440 N liquid apogee motor (using Mono Methyl Hydrazine (MMH) as fuel and oxides of Nitrogen (MON3 as oxidizer) and three pressurant tanks mounted on the LAM deck.",
+    "Payload": "12 Ku band high power transponders covering Indian main land using 140W radiatively cooled TWTAs.",
+    "Launch date": "March 12, 2007",
+    "Launch Site": "French Guiana",
+    "Launch Vehicle": "Ariane5",
+    "Orbit": "Geostationary (93.5 o E Longitude)",
+    "Mission Life": "12 Years",
+    "Launch Mass": "3025 Kg मिशन कालावधि / Mission Life : 12 Years शक्ति / Power: 5859 W Ariane5 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) INSAT-4BINSAT–4B Spacecraft is the second in the INSAT 4 series of spacecrafts and is configured with exclusive communication payloads to provide services in Ku and C frequency bands. This is co-located with INSAT–3A at 93.5 o E longitude. Mission Communication Weight 3025 kg (at Lift – off) Onboard Power 5859 W Stabilization It uses 3 earth sensors, 2 digital sun sensors, 8 coarse analog sun sensors, 3 solar panel sun sensors and one sensor processing electronics. The wheels and wheel drive electronics were imported with indigenous wheel interface module to interface the wheel drive electronics and AOCE. Propulsion The propulsion system is employing 16 thrusters, 4 each located on east, west and AY sides and 2 each on north and south sides. There is one 440 N liquid apogee motor (using Mono Methyl Hydrazine (MMH) as fuel and oxides of Nitrogen (MON3 as oxidizer) and three pressurant tanks mounted on the LAM deck. Payload 12 Ku band high power transponders covering Indian main land using 140W radiatively cooled TWTAs. 12 C band high power transponders with extended coverage, covering southeast and northwest region apart from Indian main land using 63 W TWTAs Launch date March 12, 2007 Launch Site French Guiana Launch Vehicle Ariane5 Orbit Geostationary (93.5 o E Longitude) Mission Life 12 Years INSAT-4B Satellite decommissioned after successful post mission disposal As a part of India’s continual efforts towards preservation of the long term sustainability of outer space, INSAT-4B has undergone post mission disposal (PMD) at the end of its life followed by decommissioning on 24 January 2022 to comply with the UN and the INTER Agency Space Debris Coordination Committee (IADC) recommended space debris mitigation guidelines. INSAT-4B satellite was launched on 12 March 2007 to render DTH and other communication services. After completing nearly 14 years of on-orbit operations, the C band and Ku band payload services of INSAT-4B were seamlessly migrated to other GSATs before commencement of the post mission disposal. As per IADC space debris mitigation guidelines, at its end-of-life, a GEO object should be raised to a nearly circular orbit well above GEO belt to prevent its orbit from coming back into the GEO protected region within 100 years of re-orbiting. In this case, the minimum orbit raise required was 273 km and this is achieved through 11 re-orbiting manoeuvres executed during 17 – 23 January 2022. The first manoeuvre was aimed to circularize the orbit. The subsequent re-orbiting manoeuvres were executed at the perigees and the apogees alternately making the intermediate orbits near circular. All manoeuvre plans were screened to ensure that there were no close approaches/collision threats between any other space objects (active satellites and space debris) in the near future. On 24 January 2022, remaining propellant venting and electrical passivation activities were carried out to minimise post-mission break-up risk before finally decommissioning the satellite. This telecommand intensive operation was executed out between 70-74 deg East longitude region to avoid RF interference with the other operational GEO satellites. INSAT-4B is the 21st Indian GEO satellite to undergo post-mission disposal, the required propellant for such re-orbiting was included in the initial fuel budget as a part of standard practice followed in ISRO's GEO mission planning. The finally achieved orbit is about 340 km above GEO altitude in perfect compliance with IADC guidelines for space debris mitigation of GEO objects. The successful post-mission disposal of INSAT-4B through meticulous planning and flawless execution marks yet another ISRO’s endeavour to ensure the safety and sustainability of outer space operations."
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/insat4b_img_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/insat-4b_post_mission_disposal_large.png.webp"
+  ],
+  "local_images": [
+    "images\\INSAT-4B_1.webp",
+    "images\\INSAT-4B_2.webp"
+  ],
+  "name": "INSAT-4B"
+}

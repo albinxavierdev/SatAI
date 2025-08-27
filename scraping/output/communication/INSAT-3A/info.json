@@ -1,0 +1,22 @@
+{
+  "title": "INSAT-3A",
+  "url": "https://www.isro.gov.in/INSAT_3A.html",
+  "intro": "INSAT-3A Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Telecommunication, broadcasting and Meteorology",
+    "Spacecraft Mass": "2,950 kg (Mass at Lift–off) 1,348 kg (Dry mass)",
+    "Onboard power": "3,100 W",
+    "Stabilization": "3 – axis body stabilised in orbit using momentum and reaction wheels, solar flaps, magnetic torquers and eight 10 N and eight 22 N reaction control thrusters",
+    "Propulsion": "440 N Liquid Apogee Motor with MON-3 (Mixed Oxides of Nitrogen) and MMH (Mono Methyl Hydrazine) for orbit raising",
+    "Payload": "Communication payload - 12 C – band transponders, - 6 upper extended C band transponders - 6 Ku band transponders - 1 Satellite Aided Search & Rescue transponders Meteorological payload - Very High Resolution Radiometer (VHRR) with 2 km resolution in visible band and 8 km resolution in infrared and water vapour band - Charged Coupled Device (CCD) camera operating in visible, near infrared and shortwave infrared band with 1 km resolution. - Data Relay Transponders (DRT)",
+    "Launch date": "April 10, 2003",
+    "Launch site": "French Guyana",
+    "Launch vehicle": "Ariane5-V160",
+    "Orbit": "Geostationary (93.5 o E longitude)",
+    "Mission life": "12 Years",
+    "six in extended C": "band and six in Ku–band. INSAT–3A also carries a Ku–band beacon. For Meteorological observation, INSAT–3A carries a three channel Very High Resolution Radiometer (VHRR). In addition, INSAT–3A carries a Charge Coupled Device (CCD) camera which operates in the visible and short wave infrared bands providing a spatial resolution of 1 km. A Data Relay Transponder (DRT) operating in UHF band is incorporated for real time hydro meteorological data collection from unattended located on land and river basins. The data is then relayed in extended C–band to a central location. INSAT–3A also carries another transponder for Satellite Aided Search and rescue (SA&R) as part of India’s contribution to the international Satellite Aided Search Programme. प्रमोचन भार / Launch Mass: 2,950 Kg मिशन कालावधि / Mission Life : 12 Years शक्ति / Power: 3,100 W Ariane5-V160 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Climate & Environment Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) Mission Telecommunication, broadcasting and Meteorology Spacecraft Mass 2,950 kg (Mass at Lift–off) 1,348 kg (Dry mass) Onboard power 3,100 W Stabilization 3 – axis body stabilised in orbit using momentum and reaction wheels, solar flaps, magnetic torquers and eight 10 N and eight 22 N reaction control thrusters Propulsion 440 N Liquid Apogee Motor with MON-3 (Mixed Oxides of Nitrogen) and MMH (Mono Methyl Hydrazine) for orbit raising Payload Communication payload - 12 C – band transponders, - 6 upper extended C band transponders - 6 Ku band transponders - 1 Satellite Aided Search & Rescue transponders Meteorological payload - Very High Resolution Radiometer (VHRR) with 2 km resolution in visible band and 8 km resolution in infrared and water vapour band - Charged Coupled Device (CCD) camera operating in visible, near infrared and shortwave infrared band with 1 km resolution. - Data Relay Transponders (DRT) Launch date April 10, 2003 Launch site French Guyana Launch vehicle Ariane5-V160 Orbit Geostationary (93.5 o E longitude) Mission life 12 Years"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "INSAT-3A"
+}

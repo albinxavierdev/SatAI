@@ -1,0 +1,27 @@
+{
+  "title": "Satellites",
+  "url": "https://www.isro.gov.in/Satellites.html",
+  "intro": "In order to fulfil vision and service goals, the Department of space has been developing mainly the satellites for communication, earth observation, scientific, navigation and meteorological purposes.",
+  "features": {
+    "Earth Observation Satellites The largest civilian remote sensing satellite constellation in the world": "thematic series of satellites supporting multitude of applications in the areas of land and water resources; cartography; and ocean & atmosphere Scientific Spacecraft Spacecraft for research in areas like astronomy, astrophysics, planetary and earth sciences, atmospheric sciences and theoretical physics. Navigation Satellites Satellites for navigation services to meet the emerging demands of the Civil Aviation requirements and to meet the user requirements of the positioning, navigation and timing based on the independent satellite navigation system. Experimental Satellites A host of small satellites mainly for the experimental purposes. These experiments include Remote Sensing, Atmospheric Studies, Payload Development, Orbit Controls, recovery technology etc.. Small Satellites Sub 500 kg class satellites - a platform for stand-alone payloads for earth imaging and science missions within a quick turn around time. Student Satellites ISRO's Student Satellite programme is envisaged to encourage various Universities and Institutions for the development of Nano/Pico Satellites."
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/commlarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/eolarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/scilarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/navlarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/srelarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/smalllarge.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Sapcecraft/studlarge.png.webp"
+  ],
+  "local_images": [
+    "images\\Satellites_1.webp",
+    "images\\Satellites_2.webp",
+    "images\\Satellites_3.webp",
+    "images\\Satellites_4.webp",
+    "images\\Satellites_5.webp",
+    "images\\Satellites_6.webp",
+    "images\\Satellites_7.webp"
+  ],
+  "name": "Satellites"
+}

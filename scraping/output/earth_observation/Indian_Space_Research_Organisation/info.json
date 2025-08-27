@@ -1,0 +1,15 @@
+{
+  "title": "Indian Space Research Organisation",
+  "url": "https://www.isro.gov.in/mission_PSLV_C12_RISAT_2.html",
+  "intro": "PSLV-C12 / RISAT-2 Home/ Activites/ Missions accomplished",
+  "features": {
+    "PSLV": "C12, in its 15th Mission launched 300 kg Radar imaging Satellite (RISAT-2) and 40 kg micro satellite named ANUSAT to the intended orbit of 550 km with an inclination of 41 degree on April 20, 2009. PSLV is a four-stage launch vehicle employing both solid and liquid propulsion stages. PSLV is the trusted workhorse launch Vehicle of ISRO. During 1993-2008 period, PSLV had fourteen launches of which thirteen were consecutively successful. PSLV has repeatedly proved its reliability and versatility by launching 32 spacecrafts (16 Indian and 16 for international customers) into a variety of orbits so far. More Details PSLV-C12 / RISAT-2 RISAT-2 Anusat It may be recalled that during its previous mission on October 22, 2008, PSLV had successfully launched Chandrayaan-1 spacecraft, which is now exploring the Moon from lunar orbit. In its standard configuration, the 44 m tall PSLV has a lift-off mass of 295 tonne. It is a four-stage launch vehicle with the first and the third stages as well as the six strap-ons surrounding the first stage using HTPB based solid propellant. PSLV's first stage is one of the largest solid propellant boosters in the world. Its second and fourth stages use liquid propellants. PSLV-C12 was launched without the six strapons in its 'core alone' configuration. PSLV-C12 weighs about 230 tonnes at lift off. It may be recalled that PSLV in its core alone configuration had launched AGILE and TECSAR during 2007 and 2008 respectively."
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/PSLVC12/pslv_c12_Risat.jpg.webp"
+  ],
+  "local_images": [
+    "images\\Indian_Space_Research_Organisation_1.webp"
+  ],
+  "name": "Indian Space Research Organisation"
+}

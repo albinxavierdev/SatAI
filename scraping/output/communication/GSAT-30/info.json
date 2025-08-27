@@ -1,0 +1,15 @@
+{
+  "title": "GSAT-30",
+  "url": "https://www.isro.gov.in/GSAT_30.html",
+  "intro": "GSAT-30 Home / Activities / Missions accomplished",
+  "features": {
+    "s telecommunication satellite GSAT": "30 was successfully launched into a Geosynchronous Transfer Orbit (GTO) on January 17, 2020 from Kourou launch base, French Guiana by Ariane-5 VA-251. GSAT-30 is configured on ISRO’s enhanced I-3K Bus structure to provide communication services from Geostationary orbit in C and Ku bands. The satellite derives its heritage from ISRO’s earlier INSAT/GSAT satellite series. Weighing 3357 kg, GSAT-30 is to serve as replacement to INSAT-4A spacecraft services with enhanced coverage. The satellite provides Indian mainland and islands coverage in Ku-band and extended coverage in C-band covering Gulf countries, a large number of Asian countries and Australia. The designed in-orbit operational life of GSAT-30 is more than 15 years. More Details GSAT-30 GSAT-30 Curtain Raiser Video (English) GSAT-30 Curtain Raiser Video (Hindi) GSAT-30 Gallery Launch Kit at a glance PDF - 7.17 MB प्रमोचन भार / Launch Mass: 3357 kg मिशन कालावधि / Mission Life : More than 15 years Ariane-5 VA-251 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) More Details GSAT-30 GSAT-30 Curtain Raiser Video (English) GSAT-30 Curtain Raiser Video (Hindi) GSAT-30 Gallery Launch Kit at a glance PDF - 7.17 MB"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/gsat-30_deployed_large.png.webp"
+  ],
+  "local_images": [
+    "images\\GSAT-30_1.webp"
+  ],
+  "name": "GSAT-30"
+}

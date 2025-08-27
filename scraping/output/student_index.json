@@ -1,0 +1,50 @@
+[
+  {
+    "name": "SSLV-D2/EOS-07 MISSION",
+    "folder": "student\\SSLV-D2_EOS-07_MISSION",
+    "url": "https://www.isro.gov.in/mission_SSLV_D2.html",
+    "cover_image": "images\\SSLV-D2_EOS-07_MISSION_1.webp"
+  },
+  {
+    "name": "EOS-06",
+    "folder": "student\\EOS-06",
+    "url": "https://www.isro.gov.in/EOS_06.html#eos",
+    "cover_image": "images\\EOS-06_1.webp"
+  },
+  {
+    "name": "PSLV-C54/EOS-06 Mission",
+    "folder": "student\\PSLV-C54_EOS-06_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C54.html",
+    "cover_image": "images\\PSLV-C54_EOS-06_Mission_1.webp"
+  },
+  {
+    "name": "LAUNCH WITNESS PASS",
+    "folder": "student\\LAUNCH_WITNESS_PASS",
+    "url": "https://www.isro.gov.in/SSLV_D1_EOS_02.html",
+    "cover_image": "images\\LAUNCH_WITNESS_PASS_1.webp"
+  },
+  {
+    "name": "INSPIREsat-1",
+    "folder": "student\\INSPIREsat-1",
+    "url": "https://www.isro.gov.in/mission_PSLV_C52_INSPIREsat.html",
+    "cover_image": "images\\INSPIREsat-1_1.webp"
+  },
+  {
+    "name": "PSLV-C52/EOS-04 Mission",
+    "folder": "student\\PSLV-C52_EOS-04_Mission",
+    "url": "https://www.isro.gov.in/mission_PSLV_C52.html",
+    "cover_image": "images\\PSLV-C52_EOS-04_Mission_1.webp"
+  },
+  {
+    "name": "PSLV-C51/Amazonia-1",
+    "folder": "student\\PSLV-C51_Amazonia-1",
+    "url": "https://www.isro.gov.in/mission_PSLV_C51.html",
+    "cover_image": "images\\PSLV-C51_Amazonia-1_1.webp"
+  },
+  {
+    "name": "Indian Space Research Organisation",
+    "folder": "student\\Indian_Space_Research_Organisation",
+    "url": "https://www.isro.gov.in/mission_PSLV_C12_RISAT_2.html",
+    "cover_image": "images\\Indian_Space_Research_Organisation_1.webp"
+  }
+]

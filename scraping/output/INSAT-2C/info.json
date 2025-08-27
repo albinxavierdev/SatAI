@@ -1,0 +1,25 @@
+{
+  "title": "INSAT-2C",
+  "url": "https://www.isro.gov.in/INSAT_2C.html",
+  "intro": "INSAT-2C Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Communication",
+    "Weight": "2106 kg with propellants 946 kg dry weight",
+    "Onboard power": "1320 Watts",
+    "Communication": "C extended C, S and Ku bands",
+    "Stabilization": "Three axis stabilized with two Momen'tum Wheels & one Reaction Wheel, Magnetic torquers",
+    "Propulsion": "Integrated bipropellant system ( MMH and N2 04) With sixteen 22N thrusters and 440N LAM.",
+    "Payload": "Transponders: 16C-band / extended C-band transponders (for FSS), 2 high power C-band transponders (for BSS), 1S-band transponder (for BSS),1C/S-band mobile communication transponder, 3 Ku-band transponders",
+    "Launch date": "December 7, 1995",
+    "Launch site": "French Guyana",
+    "Launch vehicle": "Ariane4",
+    "Orbit": "Geostationary 93.5 deg E",
+    "Inclination": "0 deg.",
+    "Mission life": "Seven years(nominal)",
+    "Orbit life": "Very Long",
+    "Power of four C": "band transponders increased to improve communication facilities in remote areas like Northeast and Andaman & Nicobar Islands. Coverage of two other C-band transponders is enlarged to include parts of Southeast Asia, Central Asia and West Asia प्रमोचन भार / Launch Mass: 2106 Kg मिशन कालावधि / Mission Life : Seven years(nominal) शक्ति / Power: 1320 Watts Ariane-44L H10-3 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) Mission Communication Weight 2106 kg with propellants 946 kg dry weight Onboard power 1320 Watts Communication C extended C, S and Ku bands Stabilization Three axis stabilized with two Momen'tum Wheels & one Reaction Wheel, Magnetic torquers Propulsion Integrated bipropellant system ( MMH and N2 04) With sixteen 22N thrusters and 440N LAM. Payload Transponders: 16C-band / extended C-band transponders (for FSS), 2 high power C-band transponders (for BSS), 1S-band transponder (for BSS),1C/S-band mobile communication transponder, 3 Ku-band transponders Launch date December 7, 1995 Launch site French Guyana Launch vehicle Ariane4 Orbit Geostationary 93.5 deg E Inclination 0 deg. Mission life Seven years(nominal) Orbit life Very Long"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "INSAT-2C"
+}

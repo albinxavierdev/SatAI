@@ -1,0 +1,26 @@
+{
+  "title": "RESOURCESAT-2",
+  "url": "https://www.isro.gov.in/RESOURCESAT_2.html",
+  "intro": "RESOURCESAT-2 Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Remote Sensing",
+    "Orbit": "Circular Polar Sun Synchronous",
+    "Orbit altitude at injection": "822 km + 20 km (3 Sigma)",
+    "Orbit Inclination": "98.731º + 0.2º",
+    "Lift-off Mass": "1206 kg",
+    "Orbit Period": "101.35 min",
+    "Number of Orbits per day": "14",
+    "Local Time of Equator crossing": "10:30 am",
+    "Repetivity": "24 days",
+    "Attitude and Orbit Control": "3-axis body stabilised using Reaction Wheels, Magnetic Torquers and Hydrazine Thrusters",
+    "Power": "Solar Array generating 1250 W at End Of Life, two 24 AH Ni-Cd batteries",
+    "Launch date": "April 20, 2011",
+    "Launch site": "SHAR Centre Sriharikota India",
+    "Launch vehicle": "PSLV- C16",
+    "Mission life": "5 years",
+    "RESOURCESAT": "2 is a follow on mission to RESOURCESAT-1 and the eighteenth Remote Sensing satellite built by ISRO. RESOURCESAT-2 is intended to continue the remote sensing data services to global users provided by RESOURCESAT-1, and to provide data with enhanced multispectral and spatial coverage as well. Important changes in RESOURCESAT-2 compared to RESOURCESAT-1 are: Enhancement of LISS-4 multispectral swath from 23 km to 70 km and improved Radiometric accuracy from 7 bits to 10 bits for LISS-3 and LISS-4 and 10 bits to 12 bits for AWIFS. Besides, suitable changes, including miniaturisation in payload electronics, have been made in RESOURCESAT-2. More Details PSLV-C16/RESOURCESAT-2 RESOURCESAT-2 Gallery Brochure PDF - 2.37 MB RESOURCESAT-2 also carries an additional payload known as AIS (Automatic Identification System) from COMDEV, Canada as an experimental payload for ship surveillance in VHF band to derive position, speed and other information about ships. RESOURCESAT-2 carries two Solid State Recorders with a capacity of 200 Giga Bytes each to store the images taken by its cameras which can be read out later to ground stations. प्रमोचन भार / Launch Mass: 1206 kg मिशन कालावधि / Mission Life : 5 years शक्ति / Power: 1250 W प्रमोचक राकेट / Launch Vehicle: PSLV-C16/RESOURCESAT-2 उपग्रह का प्रकार / Type of Satellite: Earth Observation निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Earth Observation कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit) Mission Remote Sensing Orbit Circular Polar Sun Synchronous Orbit altitude at injection 822 km + 20 km (3 Sigma) Orbit Inclination 98.731º + 0.2º Lift-off Mass 1206 kg Orbit Period 101.35 min Number of Orbits per day 14 Local Time of Equator crossing 10:30 am Repetivity 24 days Attitude and Orbit Control 3-axis body stabilised using Reaction Wheels, Magnetic Torquers and Hydrazine Thrusters Power Solar Array generating 1250 W at End Of Life, two 24 AH Ni-Cd batteries Launch date April 20, 2011 Launch site SHAR Centre Sriharikota India Launch vehicle PSLV- C16 Mission life 5 years More Details PSLV-C16/RESOURCESAT-2 RESOURCESAT-2 Gallery Brochure PDF - 2.37 MB"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "RESOURCESAT-2"
+}

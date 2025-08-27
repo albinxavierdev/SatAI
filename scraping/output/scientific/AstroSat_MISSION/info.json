@@ -1,0 +1,33 @@
+{
+  "title": "AstroSat MISSION",
+  "url": "https://www.isro.gov.in/AstroSat.html",
+  "intro": "AstroSat is the first dedicated Indian astronomy mission aimed at studying celestial sources in X-ray, optical and UV spectral bands simultaneously. The payloads cover the energy bands of Ultraviolet (Near and Far), limited optical and X-ray regime (0.3 keV to 100keV). One of the unique features of AstroSat mission is that it enables the simultaneous multi-wavelength observations of various astronomical objects with a single satellite. AstroSat with a lift-off mass of 1515 kg was launched on September 28, 2015 into a 650 km orbit inclined at an angle of 6 deg to the equator by PSLV-C30 from Satish Dhawan Space Centre, Sriharikota. The minimum useful life of the AstroSat mission is expected to be 5 years.",
+  "features": {
+    "Previous Next AstroSat is the first dedicated Indian astronomy mission aimed at studying celestial sources in X": "ray, optical and UV spectral bands simultaneously. The payloads cover the energy bands of Ultraviolet (Near and Far), limited optical and X-ray regime (0.3 keV to 100keV). One of the unique features of AstroSat mission is that it enables the simultaneous multi-wavelength observations of various astronomical objects with a single satellite. AstroSat with a lift-off mass of 1515 kg was launched on September 28, 2015 into a 650 km orbit inclined at an angle of 6 deg to the equator by PSLV-C30 from Satish Dhawan Space Centre, Sriharikota. The minimum useful life of the AstroSat mission is expected to be 5 years. After injection into Orbit, the two solar panels of AstroSat were automatically deployed in quick succession. The spacecraft control centre at Mission Operations Complex (MOX) of ISRO Telemetry, Tracking and Command Network (ISTRAC), Bengaluru manages the satellite during its entire mission life. The science data gathered by five payloads of AstroSat are telemetered to the ground station at MOX. The data is then processed, archived and distributed by Indian Space Science Data Centre (ISSDC) located at Bylalu, near Bengaluru. The scientific objectives of AstroSat mission are: To understand high energy processes in binary star systems containing neutron stars and black holes. Estimate magnetic fields of neutron stars. Study star birth regions and high energy processes in star systems lying beyond our galaxy. Detect new briefly bright X-ray sources in the sky. Perform a limited deep field survey of the Universe in the Ultraviolet region. At present, all the payloads are operational and are observing the cosmic sources. The spacecraft and payloads are healthy. The first six months was dedicated for performance verification and calibration of payloads .After that, the science observations by the payloads began. Preliminary results AstroSat updates Story of the week related to AstroSat Publications (30.9 KB) A review article on \"ASTROSAT -- Indian Multiwavelength Astronomy Satellite to View the Invisible Universe\" by Prof. P.C.Agrawal has been published in Physics News, July -- December 2016 issue. Freely downloadable version of this article is available at : Click here Outreach Make your own AstroSat Model Book on AstroSat Released - Download the Free Copy Brochure (4.9 MB) AstroSat Completes 2 years in Orbit Research Fourth AO Cycle Third AO Cycle Second AO Cycle AstroSat Announcement of Opportunity (AO) Invitation for AstroSat Announcement of Opportunity (AO) ISRO, in collaboration with the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune has set up an AstroSat Support Cell (ASC) to facilitate the proposal making process and the use of AstroSat data. For more details,Visit http://astrosat-ssc.iucaa.in India's AstroSat discovers one of the earliest galaxies in extreme-Ultraviolet light and marks a major breakthrough &nbsp Launch Vehicle Read More.. &nbsp Spacecraft Read More.. &nbsp Ground Segment Read More.. &nbsp Payloads Read More.. Payloads"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/slider1_0_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/slider2_3_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/slider3_1_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/new_picture_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/slider5_0_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/lv_0_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/satellite1_1_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/GroundSegment_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/payloads_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/Highlights/Astrosat/paylodesAstro_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\AstroSat_MISSION_1.webp",
+    "images\\AstroSat_MISSION_2.webp",
+    "images\\AstroSat_MISSION_3.webp",
+    "images\\AstroSat_MISSION_4.webp",
+    "images\\AstroSat_MISSION_5.webp",
+    "images\\AstroSat_MISSION_6.webp",
+    "images\\AstroSat_MISSION_7.webp",
+    "images\\AstroSat_MISSION_8.webp",
+    "images\\AstroSat_MISSION_9.webp",
+    "images\\AstroSat_MISSION_10.webp"
+  ],
+  "name": "AstroSat MISSION"
+}

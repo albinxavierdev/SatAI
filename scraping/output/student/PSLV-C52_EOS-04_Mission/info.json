@@ -1,0 +1,17 @@
+{
+  "title": "PSLV-C52/EOS-04 Mission",
+  "url": "https://www.isro.gov.in/mission_PSLV_C52.html",
+  "intro": "PSLV-C52/EOS-04 Mission Home / Activities / Missions accomplished",
+  "features": {
+    "s Polar Satellite Launch Vehicle PSLV": "C52 injected Earth Observation Satellite EOS-04, into an intended sun synchronous polar orbit of 529 km altitude at 06:17 hours IST on February 14, 2022 from Satish Dhawan Space Centre, SHAR, Sriharikota. PSLV lifted off at 05:59 hours IST from the first launch pad at SHAR. This was the 80th launch vehicle mission from SDSC SHAR, Sriharikota; 54th flight of PSLV; and the 23rd flight of PSLV in XL configuration (6 strap-on motors). The satellite EOS-04 is realised at U R Rao Satellite Centre, Bengaluru. It is a Radar Imaging Satellite designed to provide high quality images under all weather conditions for applications such as Agriculture, Forestry & Plantations, Soil Moisture & Hydrology and Flood mapping. Weighing about 1710 kg, it generates 2280 W power and has a mission life of 10 years. More Details PSLV-C52/EOS-04 Mission EOS-04 INS-2TD INSPIREsat-1 Brochure PDF - 7.17 MB Gallery Launch of PSLV-C52/EOS-04 PSLV-C52 Liftoff and Onboard Camera View The vehicle also placed two small satellites a student satellite (INSPIREsat-1) from Indian Institute of Space Science & Technology (IIST) in association with Laboratory of Atmospheric & Space Physics at University of Colorado, Boulder and a technology demonstrator satellite (INS-2TD) from ISRO, which is a precursor to India-Bhutan Joint Satellite (INS-2B). Co-passenger satellites were successfully separated from the PSLV in a predetermined sequence. ISRO Chairman Shri S Somanath congratulated team ISRO for the precision with which the mission was accomplished."
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/resized/pslv-c52j_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/resized/eos-04_large.png.webp"
+  ],
+  "local_images": [
+    "images\\PSLV-C52_EOS-04_Mission_1.webp",
+    "images\\PSLV-C52_EOS-04_Mission_2.webp"
+  ],
+  "name": "PSLV-C52/EOS-04 Mission"
+}

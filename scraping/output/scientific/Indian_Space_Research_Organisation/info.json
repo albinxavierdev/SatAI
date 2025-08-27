@@ -1,0 +1,27 @@
+{
+  "title": "Indian Space Research Organisation",
+  "url": "https://www.isro.gov.in/MOM.html",
+  "intro": "The journey of Mars Orbiter from launch to Martian orbit: A look at the mission profile",
+  "features": {
+    "Breathtaking pictures of Mars from MCC The journey of Mars Orbiter from launch to Martian orbit": "A look at the mission profile Previous Next Marking India's first venture into the interplanetary space, MOM will explore and observe Mars surface features, morphology, mineralogy and the Martian atmosphere. Further, a specific search for methane in the Martian atmosphere will provide information about the possibility or the past existence of life on the planet. The enormous distances involved in interplanetary missions present a demanding challenge; developing and mastering the technologies essential for these missions will open endless possibilities for space exploration. After leaving Earth, the Orbiter will have to endure the Interplanetary space for 300 days before Mars capture. Apart from deep space communications and navigation-guidance-control capabilities, the mission will require autonomy at the spacecraft end to handle contingencies. Once India decided to go to Mars, ISRO had no time to lose as the nearest launch window was only a few months away and it could not afford to lose the chance, given the next launch would present itself after over 780 days, in 2016. Thus, mission planning, manufacturing the spacecraft and the launch vehicle and readying the support systems took place swiftly. Connect with Mars Orbiter Launch Vehicle MOM was launched aboard PSLV C-25, which was an XL variant of the PSLV, one of world's most reliable launch vehicles. The XL variant was earlier used to launch Chandrayaan (2008), GSAT-12 (2011) and RISAT-1 (2012). Read More... Spacecraft Based on the I-1-K satellite bus of ISRO that has proved its reliability over the years in Chandrayaan-1 and the IRS and INSAT series of satellites, the MOM spacecraft carries 850 kg of fuel and 5 science payloads. Read More... Ground Segment The Orbiter is being tracked by the Indian Deep Space Network (IDSN), located outside Bangalore. IDSN's 32 m and 18 m diameter antennas are being complemented by NASA - JPL's Deep Space Network. Read More... Mission profile The Mars Mission was envisaged as a rendezvous problem, wherein the Mars orbiter is manoeuvred into a departure hyperbolic trajectory, escapes the SOI of Earth and thereafter enters the SOI of Mars. Read More... Payloads"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/mom_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/moi_0_large.jpg.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/pslv_mom_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/mom_sc_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/d32_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/mission_large.png.webp",
+    "https://www.isro.gov.in/media_isro/image/archives/Visimages/pics/mom-payloads_large.png.webp"
+  ],
+  "local_images": [
+    "images\\Indian_Space_Research_Organisation_1.webp",
+    "images\\Indian_Space_Research_Organisation_2.webp",
+    "images\\Indian_Space_Research_Organisation_3.webp",
+    "images\\Indian_Space_Research_Organisation_4.webp",
+    "images\\Indian_Space_Research_Organisation_5.webp",
+    "images\\Indian_Space_Research_Organisation_6.webp",
+    "images\\Indian_Space_Research_Organisation_7.webp"
+  ],
+  "name": "Indian Space Research Organisation"
+}

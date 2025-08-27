@@ -1,0 +1,23 @@
+{
+  "title": "PSLV-C9 / CARTOSAT – 2A",
+  "url": "https://www.isro.gov.in/PSLV_C9_Cartosat_2A.html",
+  "intro": "PSLV-C9 / CARTOSAT – 2A Home / Activities / Missions accomplished",
+  "features": {
+    "Nomenclature": "Core (PSI)",
+    "Propellant": "Solid HTPB Based",
+    "Mass (Tonne)": "138.0+",
+    "Max Thrust (kn)": "4762.0",
+    "Burn Time (sec)": "106.9",
+    "Stage Dia (m)": "2.8",
+    "Stage Length (m)": "20",
+    "Control": "SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll",
+    "Back to ISRO Timeline PSLV": "C9 is the thirteenth flight of ISRO's Polar Satellite Launch Vehicle (PSLV) and the third flight of its 'Core Alone' version as well. In this flight, PSLV launched ten payloads - India's 690 kg CARTOSAT-2A and 83 kg Indian Mini Satellite (IMS-1) as well as eight nanosatellites from abroad together weighing about 50 kg into a 635 km high polar Sun Synchronous Orbit (SSO) inclined at an angle of 97.94 deg to the equator. With much lighter payloads compared to the ones placed into orbit by its standard version, PSLV-C9 is configured without the six solid propellant strap-on motors of the first stage. The previous two launches of PSLV were also such 'Core Alone' versions. The Core Alone PSLV-C9 had a lift-off mass of 230 tonne. More Details PSLV-C9 / CARTOSAT–2A CARTOSAT – 2A IMS-1 Brochure PDF - 1.19 MB PSLV has emerged as the workhorse launch vehicle of ISRO with eleven consecutively successful flights so far. Since its first successful launch in 1994, PSLV has launched eight Indian remote sensing satellites, HAMSAT - an amateur radio satellite, SRE-1 - a recoverable space capsule and six small satellites for foreign customers into 550-800 km high polar Sun Synchronous Orbits (SSO). Besides, it has launched two satellites from abroad into Low Earth Orbits (LEO) of low or medium inclination. PSLV has also launched KALPANA-1 - India's exclusive meteorological satellite into Geosynchronous Transfer Orbit (GTO). PSLV will be used to launch Chandrayaan-1 -India's first spacecraft mission to moon, during 2008. In its standard configuration, the 44 m tall PSLV has a lift-off mass of 295 tonne. It is a four-stage launch vehicle with the first and the third stages as well as the six strap-ons surrounding the first stage using HTPB based solid propellant. PSLV's first stage is one of the largest solid propellant boosters in the world. Its second and fourth stages use liquid propellants. PSLV's bulbous payload fairing has a diameter of 3.2 metre. The vehicle has S-band telemetry and C-band transponder systems for monitoring its health and flight status respectively. It also has sophisticated auxiliary systems like stage and payload fairing separation systems. PSLV- C9 stages at a glance STAGE-1 STAGE-2 STAGE-3 STAGE-4 Nomenclature Core (PSI) PS2 PS3 PS4 Propellant Solid HTPB Based Liquid UH25+N204 Solid HTPB based Bi-prop MMH + MON-3 Mass (Tonne) 138.0+ 41.5 7.6 1.6 Max Thrust (kn) 4762.0 800 246 7.3X2 Burn Time (sec) 106.9 147 122.5 318 Stage Dia (m) 2.8 2.8 2.0 2.8 Stage Length (m) 20 12.8 3.6 2.9 Control SITVC for Pitch & Yaw, Reaction Control Thrusters for Roll Engine Gimbal for Pitch & Yaw, Hot Gas Reaction Control Motor for Roll Control Flex Nozzle for Pitch & Yaw, PS4 RCS for Roll Engine Gimbal for Pitch, Yaw and Roll, On-off RCS for Coast Phase Control. More Details PSLV-C9 / CARTOSAT–2A CARTOSAT – 2A IMS-1 Brochure PDF - 1.19 MB"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/more/PSLVC9/pslv_c9.jpg.webp"
+  ],
+  "local_images": [
+    "images\\PSLV-C9___CARTOSAT___2A_1.webp"
+  ],
+  "name": "PSLV-C9 / CARTOSAT – 2A"
+}

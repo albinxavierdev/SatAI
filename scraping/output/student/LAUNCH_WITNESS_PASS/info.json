@@ -1,0 +1,15 @@
+{
+  "title": "LAUNCH WITNESS PASS",
+  "url": "https://www.isro.gov.in/SSLV_D1_EOS_02.html",
+  "intro": "The launch of SSLV-D1/EOS-02 Mission is scheduled for Sunday, August 7, 2022 at 9:18 am (IST) from Satish Dhawan Space Centre (SDSC), Sriharikota.",
+  "features": {
+    "The launch of SSLV": "D1/EOS-02 Mission is scheduled for Sunday, August 7, 2022 at 9:18 am (IST) from Satish Dhawan Space Centre (SDSC), Sriharikota. ISRO invites citizens to the Launch View Gallery at SDSC to witness the launch. Registration is open at https://lvg.shar.gov.in/VSCREGISTRATION/index.jsp More Details LAUNCH WITNESS PASS"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/SSLV/resized/LaunchWitness_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\LAUNCH_WITNESS_PASS_1.webp"
+  ],
+  "name": "LAUNCH WITNESS PASS"
+}

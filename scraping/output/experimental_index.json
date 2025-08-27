@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Indian Space Research Organisation",
+    "folder": "experimental\\Indian_Space_Research_Organisation",
+    "url": "https://www.isro.gov.in/index.html",
+    "cover_image": "images\\Indian_Space_Research_Organisation_1.png"
+  },
+  {
+    "name": "Satellites",
+    "folder": "experimental\\Satellites",
+    "url": "https://www.isro.gov.in/Satellites.html",
+    "cover_image": "images\\Satellites_1.webp"
+  }
+]

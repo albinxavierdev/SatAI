@@ -1,0 +1,15 @@
+{
+  "title": "Microsat",
+  "url": "https://www.isro.gov.in/Microsat.html",
+  "intro": "Microsat Home / Activities / Missions accomplished",
+  "features": {
+    "PSLV": "C40 carries a Microsatellite (Microsat) built by ISRO as a co-passenger payload. Microsat is a small satellite in the 100 kg class that derives its heritage from IMS-1 bus. This is a technology demonstrator and the fore runner for future satellites of this series. The satellite bus is modular in design and can be fabricated and tested independently of payload. प्रमोचक राकेट / Launch Vehicle: PSLV-C40/Cartosat-2 Series Satellite Mission उपग्रह का प्रकार / Type of Satellite: Small निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Experimental कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit) More Details PSLV-C40/Cartosat-2 Series Satellite Mission Cartosat-2 Series Satellite Microsat ISRO Nano Satellites Brochure PDF - 1.02 MB Gallery PSLV-C40 / Cartosat-2 Series Satellite Mission Curtain Raiser Video - English PSLV-C40 / Cartosat-2 Series Satellite Mission Curtain Raiser Video - Hindi Watch Live PSLV-C40 / Cartosat-2 Series Satellite Mission PSLV-C40/Cartosat-2 Series Mission Liftoff and Onboard Camera View"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/Microsat_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\Microsat_1.webp"
+  ],
+  "name": "Microsat"
+}

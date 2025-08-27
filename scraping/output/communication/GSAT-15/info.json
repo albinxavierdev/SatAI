@@ -1,0 +1,24 @@
+{
+  "title": "GSAT-15",
+  "url": "https://www.isro.gov.in/GSAT_15.html",
+  "intro": "GSAT-15 Home / Activities / Missions accomplished",
+  "features": {
+    "Mission": "Communication and Satellite Navigation",
+    "Weight": "3164 kg (Mass at Lift – off) 1440 kg (Dry Mass)",
+    "Power": "Solar array providing 6200 Watts and Three 100 AH Lithium-Ion batteries",
+    "Propulsion": "Bi- propellant System",
+    "Launch date": "November 11, 2015",
+    "Launch site": "Kourou, French Guiana",
+    "Launch vehicle": "Ariane-5 VA-227",
+    "Orbit": "Geostationary (93.5° East longitude) Co-located with INSAT-3A and INSAT-4B",
+    "Mission life": "12 Years",
+    "Launch Mass": "3164 kg मिशन कालावधि / Mission Life : 12 Years शक्ति / Power: Solar array providing 6200 Watts and Three 100 AH Lithium-Ion batteries Ariane-5 VA-227 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication Navigation कक्षा का प्रकार / Orbit Type: GEO GSAT-15, India’s latest Communication Satellite is a high power satellite being inducted into the INSAT/GSAT system. Weighing 3164 kg at lift-off, GSAT-15 carried a total of 24 communication transponders in Ku-band as well as a GPS Aided GEO Augmented Navigation (GAGAN) payload operating in L1 and L5 bands. GSAT-15 is the third satellite to carry GAGAN payload after GAST-8 and GSAT-10, which are already providing navigation services from orbit. GSAT-15, carried a Ku-band beacon as well to help in accurately pointing ground antennas towards the satellite. GSAT-15 was launched by Ariane-5 VA-227 launch vehicle from Kourou, French Guiana on early morning of November 11, 2015 Mission Communication and Satellite Navigation Weight 3164 kg (Mass at Lift – off) 1440 kg (Dry Mass) Power Solar array providing 6200 Watts and Three 100 AH Lithium-Ion batteries Propulsion Bi- propellant System Launch date November 11, 2015 Launch site Kourou, French Guiana Launch vehicle Ariane-5 VA-227 Orbit Geostationary (93.5° East longitude) Co-located with INSAT-3A and INSAT-4B Mission life 12 Years"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/GSAT-15_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\GSAT-15_1.webp"
+  ],
+  "name": "GSAT-15"
+}

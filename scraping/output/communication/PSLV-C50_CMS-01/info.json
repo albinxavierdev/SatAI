@@ -1,0 +1,15 @@
+{
+  "title": "PSLV-C50/CMS-01",
+  "url": "https://www.isro.gov.in/mission_PSLV_C50.html",
+  "intro": "PSLV-C50/CMS-01 Home / Activities / Missions accomplished",
+  "features": {
+    "Back to ISRO Timeline PSLV": "C50 successfully launches CMS-01 from Satish Dhawan Space Centre SHAR, Sriharikota India’s communication satellite CMS-01 was successfully launched by PSLV-C50 on Wednesday December 17, 2020 from the Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. PSLV-C50 lifted off from the Second Launch Pad of SDSC SHAR at 15:41 hours (IST) carrying CMS-01. After a flight of about 20 minutes 12 seconds, the vehicle injected the satellite into its intended orbit as planned. After injection, the solar panels of CMS-01 were automatically deployed and ISRO’s Master Control Facility at Hassan has assumed the control of the satellite. In the coming days, orbit raising manoeuvers will be executed to position the satellite in the Geostationary Orbit at its designated location. PSLV-C50 is the 52nd flight of PSLV and 22nd flight of PSLV in 'XL' configuration (with 6 strap-on motors). This was the 77th launch vehicle mission from SDSC SHAR, Sriharikota. More Details PSLV-C50/CMS-01 CMS-01 Brochure PDF - 2.86 MB Gallery CMS-01 Update Launch of PSLV-C50/CMS-01 Mission PSLV-C50/CMS-01 Lift off and Onboard camera view"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV/resized/pslv_c50_large.png.webp"
+  ],
+  "local_images": [
+    "images\\PSLV-C50_CMS-01_1.webp"
+  ],
+  "name": "PSLV-C50/CMS-01"
+}

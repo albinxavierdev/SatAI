@@ -1,0 +1,19 @@
+{
+  "title": "PSLV-C5 /RESOURCESAT-1",
+  "url": "https://www.isro.gov.in/mission_PSLV_C5.html",
+  "intro": "PSLV-C5 /RESOURCESAT-1 Home / Activities / Missions accomplished",
+  "features": {
+    "#": "STAGE-1",
+    "Nomenclature": "Core (PSI)) + Six Strap -ons (PSOM) 6 Nos",
+    "Propellant": "Solid HTPB Based",
+    "Mass (Tonne)": "138.0 + 6 x 9.0",
+    "Max Thrust (kN)": "4762.0 6 x 645",
+    "Burn Time (sec)": "106.4 44",
+    "Stage Dia (m)": "2.8 1.0",
+    "Stage Length (m)": "20 10",
+    "PSLV": "C5 is the eighth flight of ISRO's Polar Satellite Launch Vehicle, PSLV. Since its first flight in 1993, the payload capability of PSLV has been progressively improved by more than 600 kg. PSLV has also launched multiple satellites. In PSLV-C5 mission, the vehicle launches an Indian Remote Sensing Satellite, IRS-P6 (RESOURCESAT-1), weighing 1360 kg into an 817 km high polar Sun Synchronous Orbit (SSO). With six successive successful launches so far, PSLV has emerged as the workhorse launch vehicle of ISRO for launching satellites into SSO as well as Geosynchronous Transfer Orbit (GTO). PSLV is also offered for launching satellites of other space agencies /countries through the Antrix Corporation Limited. More Details PSLV-C5 /RESOURCESAT-1 IRS-P6/ RESOURCESAT-1 Brochure PDF - 648 KB # STAGE-1 STAGE-2 STAGE-3 STAGE-4 Nomenclature Core (PSI)) + Six Strap -ons (PSOM) 6 Nos PS2 PS3 PS4 Propellant Solid HTPB Based Liquid UH25+N204 Solid HTPB based Bi-prop MMH + MON Mass (Tonne) 138.0 + 6 x 9.0 41.5 7.6 2.5 Max Thrust (kN) 4762.0 6 x 645 800 246 7.3 x 2 Burn Time (sec) 106.4 44 147 109 515 Stage Dia (m) 2.8 1.0 2.8 2.0 2.8 Stage Length (m) 20 10 12.8 3.6 2.9"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "PSLV-C5 /RESOURCESAT-1"
+}

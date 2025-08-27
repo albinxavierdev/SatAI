@@ -1,0 +1,15 @@
+{
+  "title": "PSLV-C46 Mission",
+  "url": "https://www.isro.gov.in/mission_PSLV_C46.html",
+  "intro": "PSLV-C46 Mission Home / Activities / Missions accomplished",
+  "features": {
+    "s PSLV": "C46 successfully launched RISAT-2B satellite from of Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. PSLV-C46 lifted-off at 05:30 Hrs (IST) on May 22, 2019 from the First Launch Pad of SDSC SHAR, Sriharikota. PSLV-C46 was the 72nd launch vehicle mission from SDSC SHAR, Sriharikota. In this mission, the 'Core-Alone' configuration of PSLV was flown (without the use of solid strap-on motors) About 15 minutes and 30 seconds after lift-off, RISAT-2B was injected into an orbit of 555 km at an inclination of 37 degree to the equator RISAT-2B with a lift-off mass of 615 kg, is a radar imaging earth observation satellite. The satellite is intended to provide services to Agriculture, Forestry and Disaster Management domains. More Details PSLV-C46 Mission Brochure PDF - 7.44 MB Gallery PSLV-C46 Curtain Raiser Video (English) PSLV-C46 Curtain Raiser Video (Hindi) Lift-off and Onboard Camera View of PSLV-C46 / RISAT-2B Launch RISAT-2B"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/PSLV-C46/resized/pslv_c46_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\PSLV-C46_Mission_1.webp"
+  ],
+  "name": "PSLV-C46 Mission"
+}

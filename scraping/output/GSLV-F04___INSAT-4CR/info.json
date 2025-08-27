@@ -1,0 +1,20 @@
+{
+  "title": "GSLV-F04 / INSAT-4CR",
+  "url": "https://www.isro.gov.in/GSLV_F04_INSAT_4CR.html",
+  "intro": "GSLV-F04 / INSAT-4CR Home / Activities / Missions accomplished",
+  "features": {
+    "Parameter": "GS1 (First Stage)",
+    "S139 Booster": "L40H Strapon",
+    "Length (m)": "20.13",
+    "Dia (m)": "2.8",
+    "Propellant mass (t)": "138",
+    "Case / Tank material": "Maraging steel",
+    "Propellant": "HTPB",
+    "Burn Time (s)": "106.9",
+    "Max. Vac. Thrust (kN)": "4768",
+    "Back to ISRO Timeline GSLV": "F04 is the fifth flight of India's Geosynchronous Satellite launch Vehicle (GSLV), launched INSAT-4CR satellite, into a Geosynchronous Transfer Orbit (GTO) of 170 km perigee and 35,975 km apogee with an orbital inclination of 21.7 degree with respect to equator on September 2, 2007. Subsequently, the satellite was manoeuvred into geostationary orbit using its own propulsion system. More Details GSLV-F04 / INSAT-4CR INSAT-4CR Brochure PDF - 1.37 MB The 49 m tall GSLV, with a lift-off mass of 415 tonne, is a three-stage vehicle with solid, liquid and cryogenic stages. The first stage of GSLV, one of the largest in the world, uses Hydroxyl Terminated Polybutadiene (HTPB) based propellant. The second stage and the four strap-on motors surrounding the first stage use liquid propellant 'Vikas' engine burning UH25 and Nitrogen Tetraoxide. The third stage is a cryogenic stage using liquid Hydrogen as fuel and liquid Oxygen as oxidiser. GSLV employs S-band telemetry and C-band transponders for enabling vehicle performance monitoring, tracking, range safety / flight safety and Preliminary Orbit Determination. The payload fairing, which is 7.8 m long and 3.4 m in diameter, protects the vehicle electronics and the spacecraft during its ascent through the atmosphere It is discarded when the vehicle reaches an altitude of about 115 km. The Redundant Strap Down Inertial Navigation System/Inertial Guidance System of GSLV housed in its equipment bay guides the vehicle from lift-off to spacecraft injection. The digital auto-pilot and closed loop guidance scheme ensure the required attitude manoeuvre and guide injection of the spacecraft to the specified orbit. GSLV-F04 was launched from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, the spaceport of India. GSLV became operational after two developmental flights when it successfully launched GSAT-1 and GSAT-2 in 2001 and 2003 respectively. In its first operational flight in September 2004, GSLV launched EDUSAT - India's first dedicated satellite for educational services. However, the second operational flight, GSlV-F02, conducted on July 10, 2006 did not succeeding placing the satellite INSAT-4C into orbit. PSLV- C9 stages at a glance Parameter GS1 (First Stage) GS2 (Second Stage) (L37, 5H) GS3 (Third Stage) (C12) S139 Booster L40H Strapon Length (m) 20.13 19.7 11.56 8.7 Dia (m) 2.8 2.1 2.8 2.8 Propellant mass (t) 138 42 39 12.5 Case / Tank material Maraging steel Aluminium Alloy Aluminium Alloy Aluminium Alloy Propellant HTPB UH25 and N2O4 UH25 AND N2O4 LH2 and LOX Burn Time (s) 106.9 148 137 709 Max. Vac. Thrust (kN) 4768 763 799 73.5 (Normal) Control System Engine gimballing -Single Plane Engine Gimalling â€“ two place for pitch and yaw control, hot gas Reaction Control System (RCS) for roll control 2 Vernier engines for thrust phase control and cold gas RCS for cost phase control. More Details GSLV-F04 / INSAT-4CR INSAT-4CR Brochure PDF - 1.37 MB"
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "GSLV-F04 / INSAT-4CR"
+}

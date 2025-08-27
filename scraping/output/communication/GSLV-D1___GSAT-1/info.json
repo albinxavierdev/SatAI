@@ -1,0 +1,23 @@
+{
+  "title": "GSLV-D1 / GSAT-1",
+  "url": "https://www.isro.gov.in/mission_GSLV_D1.html",
+  "intro": "GSLV-D1 / GSAT-1 Home / Activities / Missions accomplished",
+  "features": {
+    "Parameter": "GS1 Stage (First Stage)",
+    "S125 booster": "L40 strapon",
+    "Length (m)": "20.3",
+    "Dia (m)": "2.8",
+    "Total mass (t)": "156",
+    "Propellant mass (t)": "129",
+    "Case/Tank material": "M250 steel",
+    "Propellant": "HTPB",
+    "Burn time (s)": "100",
+    "Max. Vac. Thrust (kN)": "4700",
+    "Specific impulse (Ns/kg)": "2610",
+    "Control system": "Multi-port SITVC",
+    "Back to ISRO Timeline The Geo-synchronous Satellite Launch Vehicle (GSLV) is designed to place satellites in Geo": "Synchronous Transfer Orbit (GTO). It adopts the flight-proven solid and liquid stages of ISRO’s Polar Satellite Launch Vehicle (PSLV) and a cryogenic upper stage. engines. The first development flight, GSLV-D1, carried experimental communication satellite, GSAT-1. More Details GSLV-D1 / GSAT-1 GSAT-1 GSLV is a three stage vehicle, 49m tall. The first stage, GS1, comprises a solid propellant motor (S125) and four liquid propellant strap-on stages(L40). The second stage (GS2) is powered by a single liquid propellant engine (L37.5). The third stage (GS3) is a cryogenic stage (C12) with re-startable Parameter GS1 Stage (First Stage) GS2 stage (Second stage) GS3 stage (Third stage) S125 booster L40 strapon Length (m) 20.3 19.7 11.6 8.7 Dia (m) 2.8 2.1 2.8 2.8 Total mass (t) 156 46 42.8 15 Propellant mass (t) 129 40 38 12.5 Case/Tank material M250 steel Aluminium Alloy Aluminium Alloy Aluminium Alloy Propellant HTPB UDMH & N2O4 UDMH & N2O4 LH2 & LOX Burn time (s) 100 160 150 720 Max. Vac. Thrust (kN) 4700 680 720 73.5 Specific impulse (Ns/kg) 2610 2750 2890 4510 Control system Multi-port SITVC EGC single plane gimballing EGC two plane gimballing for pitch & yaw control. Hot gas RCS for roll control. 2 steering engines for thrust phase control & cold gas RCS for coast phase control."
+  },
+  "image_urls": [],
+  "local_images": [],
+  "name": "GSLV-D1 / GSAT-1"
+}

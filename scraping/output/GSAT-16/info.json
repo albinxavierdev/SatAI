@@ -1,0 +1,15 @@
+{
+  "title": "GSAT-16",
+  "url": "https://www.isro.gov.in/GSAT_16.html",
+  "intro": "GSAT-16 Home / Activities / Missions accomplished",
+  "features": {
+    "Launch Mass": "3181.6 kg आयाम / Dimension: 2.0 m x 1.77 m x 3.1 m cuboid मिशन कालावधि / Mission Life : 12 Years शक्ति / Power: Solar array providing 6000 Watts and two 180 AH Lithium lon batteries Ariane-5 VA-221 उपग्रह का प्रकार / Type of Satellite: Communication निर्माता / Manufacturer: ISRO स्‍वामी / Owner: ISRO अनुप्रयोग / Application: Communication कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit) GSAT-16, an advanced communication satellite, weighing 3181.6 kg at lift-off, is being inducted into the INSAT-GSAT system. GSAT-16 is configured to carry a total of 48 communication transponders, the largest number of transponders carried by a communication satellite developed by ISRO so far, in normal C-band, upper extended C-band and Ku-band. GSAT-16 carried a Ku-band beacon as well to help accurately point ground antennas towards the satellite. The designed on-orbit operational life of GSAT-16 is 12 years. The communication transponders on-board GSAT-16 together ensure continuity of various services currently provided by INSAT-GSAT system and serve as on-orbit spares to meet contingency requirements or for the augmentation of such services. GSAT-16 is launched into a Geosynchronous Transfer Orbit (GTO) by Ariane-5 VA-221 launch vehicle from Kourou, French Guiana. After its injection into GTO, ISRO’s Master Control Facility (MCF) at Hassan took control of the satellite and performed the initial orbit raising manoeuvres using the satellite’s on-board Liquid Apogee Motor (LAM), finally placing it in the vicinity of circular Geostationary Orbit. After this, the deployment of appendages such as the solar panels, antennas and three axis stabilization of the satellite were performed. GSAT-16 is positioned at 55 deg East longitude in the Geostationary orbit and co-located with GSAT-8, IRNSS-1A and IRNSS-1B satellites. PAYLOADS OF GSAT-16 12 Ku-band transponders each with 36 MHz usable bandwidth with footprint covering Indian mainland and Andaman & Nicobar islands 24 C-band transponders each with 36 MHz usable bandwidth with footprint covering Indian mainland and island territories 12 Upper Extended C-band transponders each with 36 MHz usable bandwidth with footprint covering Indian mainland and island territories"
+  },
+  "image_urls": [
+    "https://www.isro.gov.in/media_isro/image/media/Missions/Spacecraft/resized/gsat-16_img_large.jpg.webp"
+  ],
+  "local_images": [
+    "images\\GSAT-16_1.webp"
+  ],
+  "name": "GSAT-16"
+}
