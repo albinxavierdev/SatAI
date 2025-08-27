@@ -354,3 +354,8 @@ backend/htmlcov/
 !backend/requirements.txt
 !backend/README.md
 !backend/.env.example
+v/
+venv/
+.venv/
+ENV/
+env/
